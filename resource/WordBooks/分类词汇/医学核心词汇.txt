@@ -1,0 +1,188 @@
+
+Word List 1 通用医学基础
+
+patient /ˈpeɪʃnt/ n. 病人
+doctor /ˈdɒktə(r)/ n. 医生
+nurse /nɜːs/ n. 护士
+clinic /ˈklɪnɪk/ n. 诊所；临床
+ward /wɔːd/ n. 病房
+outpatient /ˈaʊtpeɪʃnt/ n. 门诊病人
+inpatient /ˈɪnpeɪʃnt/ n. 住院病人
+treatment /ˈtriːtmənt/ n. 治疗
+therapy /ˈθerəpi/ n. 疗法
+examination /ɪɡˌzæmɪˈneɪʃn/ n. 检查
+diagnosis /ˌdaɪəɡˈnəʊsɪs/ n. 诊断
+prognosis /prɒɡˈnəʊsɪs/ n. 预后
+symptom /ˈsɪmptəm/ n. 症状
+sign /saɪn/ n. 体征
+disease /dɪˈziːz/ n. 疾病
+health /helθ/ n. 健康
+care /keə(r)/ n. 护理
+follow-up /ˈfɒləʊ ʌp/ n. 随访
+recover /rɪˈkʌvə(r)/ v. 康复
+relapse /rɪˈlæps/ v./n. 复发
+
+Word List 2 症状与体征
+
+fever /ˈfiːvə(r)/ n. 发热
+pain /peɪn/ n. 疼痛
+cough /kɒf/ n./v. 咳嗽
+nausea /ˈnɔːziə/ n. 恶心
+vomit /ˈvɒmɪt/ v./n. 呕吐
+dizzy /ˈdɪzi/ adj. 头晕的
+dyspnea /dɪspˈniːə/ n. 呼吸困难
+edema /ɪˈdiːmə/ n. 水肿
+fatigue /fəˈtiːɡ/ n. 疲劳
+constipation /ˌkɒnstɪˈpeɪʃn/ n. 便秘
+diarrhea /ˌdaɪəˈrɪə/ n. 腹泻
+rash /ræʃ/ n. 皮疹
+bleeding /ˈbliːdɪŋ/ n. 出血
+palpitation /ˌpælpɪˈteɪʃn/ n. 心悸
+consciousness /ˈkɒnʃəsnəs/ n. 意识
+coma /ˈkəʊmə/ n. 昏迷
+shock /ʃɒk/ n. 休克
+seizure /ˈsiːʒə(r)/ n. 癫痫发作
+abnormal /æbˈnɔːml/ adj. 异常的
+acute /əˈkjuːt/ adj. 急性的
+chronic /ˈkrɒnɪk/ adj. 慢性的
+
+Word List 3 人体结构与组织
+
+cell /sel/ n. 细胞
+tissue /ˈtɪʃuː/ n. 组织
+organ /ˈɔːɡən/ n. 器官
+blood /blʌd/ n. 血液
+plasma /ˈplæzmə/ n. 血浆
+artery /ˈɑːtəri/ n. 动脉
+vein /veɪn/ n. 静脉
+bone /bəʊn/ n. 骨
+muscle /ˈmʌsl/ n. 肌肉
+nerve /nɜːv/ n. 神经
+tendon /ˈtendən/ n. 肌腱
+ligament /ˈlɪɡəmənt/ n. 韧带
+heart /hɑːt/ n. 心脏
+lung /lʌŋ/ n. 肺
+liver /ˈlɪvə(r)/ n. 肝脏
+kidney /ˈkɪdni/ n. 肾
+brain /breɪn/ n. 脑
+abdomen /ˈæbdəmən/ n. 腹部
+gland /ɡlænd/ n. 腺体
+membrane /ˈmembreɪn/ n. 膜
+
+Word List 4 内科常见疾病
+
+hypertension /ˌhaɪpəˈtenʃn/ n. 高血压
+diabetes /ˌdaɪəˈbiːtiːz/ n. 糖尿病
+anemia /əˈniːmiə/ n. 贫血
+pneumonia /njuːˈməʊniə/ n. 肺炎
+asthma /ˈæsmə/ n. 哮喘
+hepatitis /ˌhepəˈtaɪtɪs/ n. 肝炎
+gastritis /ɡæˈstraɪtɪs/ n. 胃炎
+ulcer /ˈʌlsə(r)/ n. 溃疡
+infection /ɪnˈfekʃn/ n. 感染
+inflammation /ˌɪnfləˈmeɪʃn/ n. 炎症
+cancer /ˈkænsə(r)/ n. 癌
+tumor /ˈtjuːmə(r)/ n. 肿瘤
+benign /bɪˈnaɪn/ adj. 良性的
+malignant /məˈlɪɡnənt/ adj. 恶性的
+obesity /əʊˈbiːsəti/ n. 肥胖
+osteoporosis /ˌɒstiəʊpəˈrəʊsɪs/ n. 骨质疏松
+arthritis /ɑːˈθraɪtɪs/ n. 关节炎
+allergy /ˈælədʒi/ n. 过敏
+immune /ɪˈmjuːn/ adj. 免疫的
+immunity /ɪˈmjuːnəti/ n. 免疫力
+
+Word List 5 外科常见疾病与手术
+
+fracture /ˈfræktʃə(r)/ n. 骨折
+dislocation /ˌdɪsləˈkeɪʃn/ n. 脱位
+hernia /ˈhɜːniə/ n. 疝
+wound /wuːnd/ n. 伤口
+scar /skɑː(r)/ n. 疤痕
+abscess /ˈæbses/ n. 脓肿
+cyst /sɪst/ n. 囊肿
+calculus /ˈkælkjələs/ n. 结石
+embolism /ˈembəlɪzəm/ n. 栓塞
+trauma /ˈtrɔːmə/ n. 创伤
+lesion /ˈliːʒn/ n. 病变
+mass /mæs/ n. 肿块
+effusion /ɪˈfjuːʒn/ n. 积液
+operation /ˌɒpəˈreɪʃn/ n. 手术
+surgery /ˈsɜːdʒəri/ n. 外科
+anesthesia /ˌænəsˈθiːziə/ n. 麻醉
+suture /ˈsuːtʃə(r)/ n. 缝合
+biopsy /ˈbaɪɒpsi/ n. 活检
+transfusion /trænsˈfjuːʒn/ n. 输血
+dressing /ˈdresɪŋ/ n. 敷料
+
+Word List 6 药学与给药
+
+drug /drʌɡ/ n. 药物
+medicine /ˈmedsn/ n. 药
+prescription /prɪˈskrɪpʃn/ n. 处方
+dose /dəʊs/ n. 剂量
+tablet /ˈtæblət/ n. 药片
+capsule /ˈkæpsjuːl/ n. 胶囊
+injection /ɪnˈdʒekʃn/ n. 注射
+infusion /ɪnˈfjuːʒn/ n. 输液
+antibiotic /ˌæntibaɪˈɒtɪk/ n. 抗生素
+insulin /ˈɪnsjəlɪn/ n. 胰岛素
+vaccine /ˈvæksiːn/ n. 疫苗
+oxygen /ˈɒksɪdʒən/ n. 氧气
+pharmacy /ˈfɑːməsi/ n. 药房
+side effect n. 副作用
+intravenous /ˌɪntrəˈviːnəs/ adj. 静脉的
+catheter /ˈkæθətə(r)/ n. 导管
+
+Word List 7 医技与检查
+
+laboratory /ləˈbɒrətri/ n. 实验室
+specimen /ˈspesɪmən/ n. 标本
+positive /ˈpɒzətɪv/ adj. 阳性
+negative /ˈneɡətɪv/ adj. 阴性
+radiology /ˌreɪdiˈɒlədʒi/ n. 放射科
+ultrasound /ˈʌltrəsaʊnd/ n. 超声
+pathology /pəˈθɒlədʒi/ n. 病理学
+monitor /ˈmɒnɪtə(r)/ v./n. 监护
+ventilator /ˈventɪleɪtə(r)/ n. 呼吸机
+pulse /pʌls/ n. 脉搏
+respiration /ˌrespəˈreɪʃn/ n. 呼吸
+blood pressure /blʌd ˈpreʃə(r)/ n. 血压
+dialysis /daɪˈæləsɪs/ n. 透析
+sepsis /ˈsepsɪs/ n. 脓毒症
+dehydration /ˌdiːhaɪˈdreɪʃn/ n. 脱水
+
+Word List 8 专科缩写与常见病
+
+gynecology /ˌɡaɪnɪˈkɒlədʒi/ n. 妇科
+obstetrics /əbˈstetrɪks/ n. 产科
+pregnancy /ˈpreɡnənsi/ n. 妊娠
+uterus /ˈjuːtərəs/ n. 子宫
+ovary /ˈəʊvəri/ n. 卵巢
+cervix /ˈsɜːvɪks/ n. 宫颈
+placenta /pləˈsentə/ n. 胎盘
+pediatrics /ˌpiːdiˈætrɪks/ n. 儿科
+newborn /ˈnjuːbɔːn/ n. 新生儿
+jaundice /ˈdʒɔːndɪs/ n. 黄疸
+dermatology /ˌdɜːməˈtɒlədʒi/ n. 皮肤科
+eczema /ˈeksɪmə/ n. 湿疹
+psoriasis /səˈraɪəsɪs/ n. 银屑病
+ophthalmology /ˌɒfθælˈmɒlədʒi/ n. 眼科
+glaucoma /ɡlaʊˈkəʊmə/ n. 青光眼
+cataract /ˈkætərækt/ n. 白内障
+
+Word List 9 精神与康复
+
+mental /ˈmentl/ adj. 精神的
+depression /dɪˈpreʃn/ n. 抑郁
+anxiety /æŋˈzaɪəti/ n. 焦虑
+insomnia /ɪnˈsɒmniə/ n. 失眠
+psychiatry /saɪˈkaɪətri/ n. 精神科
+rehabilitation /ˌriːhəbɪlɪˈteɪʃn/ n. 康复
+paralysis /pəˈræləsɪs/ n. 瘫痪
+disability /ˌdɪsəˈbɪləti/ n. 残疾
+hormone /ˈhɔːməʊn/ n. 激素
+metabolism /məˈtæbəlɪzəm/ n. 新陈代谢
+acupuncture /ˈækjupʌŋktʃə(r)/ n. 针灸
+herbal /ˈhɜːbl/ adj. 草药的
+

@@ -1,0 +1,54 @@
+[Verbs]
+
+arise , arose , arisen
+withdraw , withdrew , withdrawn
+forsake , forsook , forsaken
+bear , bore , borne
+flee , fled , fled
+cling , clung , clung
+tear , tore , torn
+weave , wove , woven
+spin , spun , spun
+strike , struck , struck/stricken
+swell , swelled , swollen
+overcome , overcame , overcome
+thrive , throve/thrived , thriven/thrived
+grind , ground , ground
+leap , leapt/leaped , leapt/leaped
+draw , drew , drawn
+bind , bound , bound
+undertake , undertook , undertaken
+overtake , overtook , overtaken
+seek , sought , sought
+lead , led , led
+mean , meant , meant
+sweep , swept , swept
+shake , shook , shaken
+burst , burst , burst
+wring , wrung , wrung
+win , won , won
+lose , lost , lost
+hang , hung , hung
+hold , held , held
+rise , rose , risen
+raise , raised , raised
+lie , lay , lain
+lay , laid , laid
+fall , fell , fallen
+wind , wound , wound
+read , read , read
+
+
+[Nouns]
+analysis , analyses
+crisis , crises
+hypothesis , hypotheses
+phenomenon , phenomena
+criterion , criteria
+medium , media
+basis , bases
+datum , data
+index , indices/indexes
+matrix , matrices
+appendix , appendices
+radius , radii

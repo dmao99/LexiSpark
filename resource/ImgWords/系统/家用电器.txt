@@ -1,0 +1,12 @@
+fridge
+microwave
+kettle
+fan 
+iron
+washing machine
+air conditioner
+tv
+water heater
+range hood
+rack oven
+rice cooker

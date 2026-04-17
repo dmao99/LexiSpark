@@ -1,0 +1,149 @@
+1.INCORRECT I have visited Niagara Falls last weekend.
+1.CORRECT I visited Niagara Falls last weekend.
+
+2.INCORRECT The woman which works here is from Japan.
+2.CORRECT The woman who works here is from Japan.
+
+3.INCORRECT She’s married with a dentist.
+3.CORRECT She’s married to a dentist.
+
+4.INCORRECT She was boring in the class.
+4.CORRECT She was bored in the class.
+
+5.INCORRECT I must to call him immediately.
+5.CORRECT I must call him immediately.
+
+6.INCORRECT Every students like the teacher.
+6.CORRECT Every student likes the teacher.
+
+7.INCORRECT Although it was raining, but we had the picnic.
+7.CORRECT Although it was raining, we had the picnic.
+
+8.INCORRECT I enjoyed from the movie.
+8.CORRECT I enjoyed the movie.
+
+9.INCORRECT I look forward to meet you.
+9.CORRECT I look forward to meeting you.
+
+10.INCORRECT I like very much ice cream.
+10.CORRECT I like ice cream very much.
+
+11.INCORRECT She can to drive.
+11.CORRECT She can drive.
+
+12.INCORRECT Where I can find a bank?
+12.CORRECT Where can I find a bank?
+
+13.INCORRECT I live in United States.
+13.CORRECT I live in the United States.
+
+14.INCORRECT When I will arrive, I will call you.
+14.CORRECT When I arrive, I will call you.
+
+15.INCORRECT I’ve been here since three months.
+15.CORRECT I’ve been here for three months.
+
+16.INCORRECT My boyfriend has got a new work.
+16.CORRECT My boyfriend has got a new job.
+
+17.INCORRECT She doesn’t listen me.
+17.CORRECT She doesn’t listen to me.
+
+18.INCORRECT You speak English good.
+18.CORRECT You speak English well.
+
+19.INCORRECT The police is coming.
+19.CORRECT The police are coming.
+
+20.INCORRECT The house isn’t enough big.
+20.CORRECT The house isn’t big enough.
+
+21.INCORRECT You should not to smoke.
+21.CORRECT You should not smoke.
+
+22.INCORRECT Do you like a glass of wine?
+22.CORRECT Would you like a glass of wine?
+
+23.INCORRECT There is seven girls in the class.
+23.CORRECT There are seven girls in the class.
+
+24.INCORRECT I didn’t meet nobody.
+24.CORRECT I didn’t meet anybody.
+
+25.INCORRECT My flight departs in 5:00 am.
+25.CORRECT My flight departs at 5:00 am.
+
+26.INCORRECT I promise I call you next week.
+26.CORRECT I promise I’ll call you next week.
+
+27.INCORRECT Where is post office?
+27.CORRECT Where is the post office?
+
+28.INCORRECT Please explain me how improve my English.
+28.CORRECT Please explain to me how to improve my English.
+
+29.INCORRECT We studied during four hours.
+29.CORRECT We studied for four hours.
+
+30.INCORRECT Is ready my passport?
+30.CORRECT Is my passport ready?
+
+31.INCORRECT You cannot buy all what you like!
+31.CORRECT You cannot buy all that you like!
+
+32.INCORRECT She is success.
+32.CORRECT She is successful.
+
+33.INCORRECT My mother wanted that I be doctor.
+33.CORRECT My mother wanted me to be a doctor.
+
+34.INCORRECT The life is hard!
+34.CORRECT Life is hard.
+
+35.INCORRECT How many childrens you have?
+35.CORRECT How many children do you have?
+
+36.INCORRECT My brother has 10 years.
+36.CORRECT My brother is 10 (years old).
+
+37.INCORRECT I want eat now.
+37.CORRECT I want to eat now.
+
+38.INCORRECT You are very nice, as your mother.
+38.CORRECT You are very nice, like your mother.
+
+39.INCORRECT She said me that she liked you.
+39.CORRECT She told me that she liked you.
+
+40.INCORRECT My husband engineer.
+40.CORRECT My husband is an engineer.
+
+41.INCORRECT I came Australia to study English.
+41.CORRECT I came to Australia to study English.
+
+42.INCORRECT It is more hot now.
+42.CORRECT It’s hotter now.
+
+43.INCORRECT You can give me an information?
+43.CORRECT Can you give me some information?
+
+44.INCORRECT They cooked the dinner themself.
+44.CORRECT They cooked the dinner themselves.
+
+45.INCORRECT Me and Johnny live here.
+45.CORRECT Johnny and I live here.
+
+46.INCORRECT I closed very quietly the door.
+46.CORRECT I closed the door very quietly.
+
+47.INCORRECT You like dance with me?
+47.CORRECT Would you like to dance with me?
+
+48.INCORRECT I go always to school by subway.
+48.CORRECT I always go to school by subway.
+
+49.INCORRECT If I will be in London, I will contact to you.
+49.CORRECT If I am in London, I will contact you.
+
+50.INCORRECT We drive usually to home.
+50.CORRECT We usually drive home.

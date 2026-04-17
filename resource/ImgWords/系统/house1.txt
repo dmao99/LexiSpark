@@ -1,0 +1,8 @@
+frame
+furniture
+garden
+freezer
+grandfather clock
+garbage can
+gate
+home

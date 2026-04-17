@@ -1,0 +1,113 @@
+
+achieve,accomplish,attain,fulfill
+advantage,benefit,merit,upside
+affect,influence,impact,alter
+answer,reply,respond,retort
+appear,emerge,arise,surface
+argue,debate,dispute,contend
+avoid,prevent,evade,shun
+believe,think,consider,maintain
+big,large,substantial,considerable
+cause,lead to,result in,trigger
+change,alter,modify,transform
+choose,opt for,select,pick
+common,ordinary,prevalent,widespread
+complete,finish,conclude,finalize
+concern,involve,regard,relate to
+confirm,prove,verify,substantiate
+connect,link,associate,relate
+consequence,result,outcome,effect
+consider,think about,reflect on,contemplate
+decide,determine,resolve,settle
+decrease,decline,reduce,diminish
+demonstrate,show,illustrate,reveal
+describe,depict,portray,characterize
+develop,evolve,grow,advance
+different,various,diverse,distinct
+difficult,challenging,tough,demanding
+discuss,talk about,debate,explore
+divide,separate,split,break up
+easy,simple,straightforward,uncomplicated
+emphasise,stress,highlight,underline
+encourage,motivate,inspire,stimulate
+explain,clarify,account for,elaborate
+famous,well-known,renowned,notable
+fast,quick,rapid,speedy
+find,discover,detect,identify
+finish,complete,end,conclude
+first,initially,originally,firstly
+fun,enjoyable,entertaining,pleasant
+get,obtain,gain,acquire
+give,provide,offer,supply
+good,positive,favourable,beneficial
+happen,occur,take place,arise
+harm,damage,impair,jeopardise
+help,assist,support,aid
+important,significant,crucial,vital
+improve,enhance,boost,upgrade
+increase,rise,grow,expand
+in my opinion,personally,I believe,from my perspective
+individual,person,character,citizen
+involve,include,comprise,entail
+keep,maintain,preserve,retain
+know,understand,realise,recognise
+lack,insufficiency,shortage,deficiency
+like,enjoy,appreciate,be fond of
+likely,possible,probable,potential
+look at,examine,inspect,analyse
+love,adore,be keen on,be passionate about
+make,create,produce,generate
+many,numerous,multiple,a host of
+matter,issue,concern,topic
+need,require,demand,call for
+new,modern,up-to-date,innovative
+often,frequently,regularly,constantly
+oppose,object to,resist,reject
+part,portion,section,component
+people,individuals,the public,citizens
+perform,carry out,conduct,implement
+plan,intend,aim,propose
+popular,well-liked,in demand,fashionable
+possible,feasible,achievable,attainable
+problem,issue,difficulty,challenge
+prove,confirm,demonstrate,substantiate
+provide,offer,supply,furnish
+purpose,aim,goal,objective
+put forward,suggest,propose,recommend
+quite,rather,somewhat,fairly
+rare,uncommon,infrequent,scarce
+reason,cause,ground,justification
+reduce,cut,lower,decrease
+relate to,be associated with,be linked to,connect with
+research,study,investigate,explore
+result in,lead to,cause,bring about
+right,appropriate,suitable,proper
+say,state,claim,assert
+see,notice,observe,witness
+seem,appear,look,be perceived as
+show,demonstrate,reveal,indicate
+similar,alike,comparable,parallel
+solve,resolve,tackle,address
+some,several,a number of,various
+spend,use up,consume,devote
+start,begin,commence,launch
+succeed,manage,achieve,accomplish
+suggest,advise,recommend,propose
+support,back,endorse,uphold
+sure,certain,confident,convinced
+surprising,unexpected,astonishing,amazing
+take part in,participate in,engage in,join in
+think,believe,consider,argue
+thus,therefore,consequently,as a result
+time,period,duration,era
+true,accurate,correct,genuine
+understand,comprehend,grasp,figure out
+use,utilise,employ,apply
+very,extremely,highly,tremendously
+view,opinion,perspective,standpoint
+want,desire,intend,wish
+weak,feeble,fragile,frail
+wide,broad,extensive,comprehensive
+wise,sensible,reasonable,prudent
+work,job,career,occupation
+worry,concern,anxiety,unease

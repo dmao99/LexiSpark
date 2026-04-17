@@ -1,0 +1,651 @@
+
+一、内科整体
+
+medicine /ˈmedsn/ n. 医学；内科
+internal medicine /ɪnˈtɜːnl ˈmedsn/ n. 内科学
+internist /ɪnˈtɜːnɪst/ n. 内科医生
+
+二、呼吸内科
+
+respiratory /rəˈspɪrətri/ adj. 呼吸的
+respiratory medicine /rəˈspɪrətri ˈmedsn/ n. 呼吸内科
+pulmonology /ˌpʌlməˈnɒlədʒi/ n. 肺病学；呼吸病学
+pulmonologist /ˌpʌlməˈnɒlədʒɪst/ n. 呼吸科医生
+pneumonia /njuːˈməʊniə/ n. 肺炎
+bronchitis /brɒŋˈkaɪtɪs/ n. 支气管炎
+asthma /ˈæsmə/ n. 哮喘
+tuberculosis /tjuːˌbɜːkjuˈləʊsɪs/ n. 肺结核
+pleurisy /ˈplʊərəsi/ n. 胸膜炎
+dyspnea /dɪspˈniːə/ n. 呼吸困难
+expectoration /ɪkˌspektəˈreɪʃn/ n. 咳痰
+hemoptysis /hɪˈmɒptəsɪs/ n. 咯血
+spirometry /spaɪəˈrɒmətri/ n. 肺功能检查
+
+三、消化内科
+
+gastroenterology /ˌɡæstrəʊˌentəˈrɒlədʒi/ n. 消化病学
+gastroenterologist /ˌɡæstrəʊˌentəˈrɒlədʒɪst/ n. 消化科医生
+gastritis /ɡæˈstraɪtɪs/ n. 胃炎
+gastric /ˈɡæstrɪk/ adj. 胃的
+ulcer /ˈʌlsə(r)/ n. 溃疡
+duodenum /ˌdjuːəˈdiːnəm/ n. 十二指肠
+hepatology /ˌhepəˈtɒlədʒi/ n. 肝病学
+hepatitis /ˌhepəˈtaɪtɪs/ n. 肝炎
+cirrhosis /sɪˈrəʊsɪs/ n. 肝硬化
+pancreatitis /ˌpæŋkriəˈtaɪtɪs/ n. 胰腺炎
+colitis /kəˈlaɪtɪs/ n. 结肠炎
+diarrhea /ˌdaɪəˈrɪə/ n. 腹泻
+constipation /ˌkɒnstɪˈpeɪʃn/ n. 便秘
+dyspepsia /dɪsˈpepsiə/ n. 消化不良
+endoscopy /enˈdɒskəpi/ n. 内镜检查
+gastroscopy /ɡæˈstrɒskəpi/ n. 胃镜检查
+colonoscopy /ˌkɒləˈnɒskəpi/ n. 结肠镜检查
+
+四、心血管内科
+
+cardiology /ˌkɑːdiˈɒlədʒi/ n. 心脏病学
+cardiologist /ˌkɑːdiˈɒlədʒɪst/ n. 心脏科医生
+cardiac /ˈkɑːdiæk/ adj. 心脏的
+heart /hɑːt/ n. 心脏
+hypertension /ˌhaɪpəˈtenʃn/ n. 高血压
+hypotension /ˌhaɪpəʊˈtenʃn/ n. 低血压
+coronary /ˈkɒrənri/ adj. 冠状动脉的
+angina /ænˈdʒaɪnə/ n. 心绞痛
+myocardial infarction /ˌmaɪəʊˈkɑːdiəl ɪnˈfɑːkʃn/ n. 心肌梗死
+arrhythmia /əˈrɪðmiə/ n. 心律失常
+atrial fibrillation /ˈeɪtriəl ˌfɪbrɪˈleɪʃn/ n. 心房颤动
+heart failure /hɑːt ˈfeɪljə(r)/ n. 心力衰竭
+valve /vælv/ n. 瓣膜
+aorta /eɪˈɔːtə/ n. 主动脉
+pacemaker /ˈpeɪsmeɪkə(r)/ n. 起搏器
+electrocardiogram /ɪˌlektrəʊˈkɑːdiəʊɡræm/ n. 心电图（ECG/EKG）
+
+五、肾内科
+
+nephrology /neˈfrɒlədʒi/ n. 肾病学
+nephrologist /neˈfrɒlədʒɪst/ n. 肾内科医生
+kidney /ˈkɪdni/ n. 肾脏
+renal /ˈriːnl/ adj. 肾脏的
+nephritis /neˈfraɪtɪs/ n. 肾炎
+renal failure /ˈriːnl ˈfeɪljə(r)/ n. 肾衰竭
+uremia /jʊəˈriːmiə/ n. 尿毒症
+proteinuria /ˌprəʊtiːˈnjʊəriə/ n. 蛋白尿
+hematuria /ˌhiːməˈtjʊəriə/ n. 血尿
+dialysis /daɪˈæləsɪs/ n. 透析
+hemodialysis /ˌhiːməʊdaɪˈæləsɪs/ n. 血液透析
+peritoneal dialysis /ˌperɪtəˈniːəl daɪˈæləsɪs/ n. 腹膜透析
+
+六、内分泌科
+
+endocrinology /ˌendəʊkrɪˈnɒlədʒi/ n. 内分泌学
+endocrinologist /ˌendəʊkrɪˈnɒlədʒɪst/ n. 内分泌科医生
+hormone /ˈhɔːməʊn/ n. 激素
+thyroid /ˈθaɪrɔɪd/ n./adj. 甲状腺；甲状腺的
+hyperthyroidism /ˌhaɪpəˈθaɪrɔɪdɪzəm/ n. 甲状腺功能亢进
+hypothyroidism /ˌhaɪpəʊˈθaɪrɔɪdɪzəm/ n. 甲状腺功能减退
+diabetes /ˌdaɪəˈbiːtiːz/ n. 糖尿病
+diabetes mellitus /ˌdaɪəˈbiːtiːz ˈmelɪtəs/ n. 糖尿病
+insulin /ˈɪnsjəlɪn/ n. 胰岛素
+hyperglycemia /ˌhaɪpəɡlaɪˈsiːmiə/ n. 高血糖
+hypoglycemia /ˌhaɪpəʊɡlaɪˈsiːmiə/ n. 低血糖
+obesity /əʊˈbiːsəti/ n. 肥胖症
+metabolism /məˈtæbəlɪzəm/ n. 新陈代谢
+
+七、血液内科
+
+hematology /ˌhiːməˈtɒlədʒi/ n. 血液学
+hematologist /ˌhiːməˈtɒlədʒɪst/ n. 血液科医生
+blood /blʌd/ n. 血液
+anemia /əˈniːmiə/ n. 贫血
+iron deficiency anemia /ˈaɪən dɪˈfɪʃnsi əˈniːmiə/ n. 缺铁性贫血
+leukemia /luːˈkiːmiə/ n. 白血病
+lymphoma /lɪmˈfəʊmə/ n. 淋巴瘤
+bleeding /ˈbliːdɪŋ/ n. 出血
+coagulation /kəʊˌæɡjuˈleɪʃn/ n. 凝血
+platelet /ˈpleɪtlət/ n. 血小板
+plasma /ˈplæzmə/ n. 血浆
+serum /ˈsɪərəm/ n. 血清
+transfusion /trænsˈfjuːʒn/ n. 输血
+
+八、风湿免疫科
+
+rheumatology /ˌruːməˈtɒlədʒi/ n. 风湿病学
+rheumatologist /ˌruːməˈtɒlədʒɪst/ n. 风湿科医生
+rheumatism /ˈruːmətɪzəm/ n. 风湿病
+arthritis /ɑːˈθraɪtɪs/ n. 关节炎
+rheumatoid arthritis /ˈruːmətɔɪd ɑːˈθraɪtɪs/ n. 类风湿关节炎
+lupus /ˈluːpəs/ n. 狼疮
+systemic lupus erythematosus /sɪˈstiːmɪk ˈluːpəs ˌerɪˌθiːməˈtəʊsəs/ n. 系统性红斑狼疮
+gout /ɡaʊt/ n. 痛风
+immunity /ɪˈmjuːnəti/ n. 免疫力
+autoimmune /ˌɔːtəʊɪˈmjuːn/ adj. 自身免疫的
+
+九、神经内科
+
+neurology /njʊəˈrɒlədʒi/ n. 神经病学
+neurologist /njʊəˈrɒlədʒɪst/ n. 神经科医生
+nerve /nɜːv/ n. 神经
+neuron /ˈnjʊərɒn/ n. 神经元
+stroke /strəʊk/ n. 中风；卒中
+cerebral infarction /səˈriːbrəl ɪnˈfɑːkʃn/ n. 脑梗死
+cerebral hemorrhage /səˈriːbrəl ˈhemərɪdʒ/ n. 脑出血
+epilepsy /ˈepɪlepsi/ n. 癫痫
+seizure /ˈsiːʒə(r)/ n. 癫痫发作
+migraine /ˈmiːɡreɪn/ n. 偏头痛
+neuropathy /njʊəˈrɒpəθi/ n. 神经病
+parkinsonism /ˈpɑːkɪnsənɪzəm/ n. 帕金森综合征
+alzheimer's disease /ˈæltshaɪməz dɪˈziːz/ n. 阿尔茨海默病
+coma /ˈkəʊmə/ n. 昏迷
+convulsion /kənˈvʌlʃn/ n. 抽搐
+
+
+第二部分：外科及外科亚专科词汇
+
+（格式：单词 音标 词性 释义）
+
+一、外科整体
+
+surgery /ˈsɜːdʒəri/ n. 外科；手术
+surgical /ˈsɜːdʒɪkl/ adj. 外科的；手术的
+surgeon /ˈsɜːdʒən/ n. 外科医生
+operation /ˌɒpəˈreɪʃn/ n. 手术
+incision /ɪnˈsɪʒn/ n. 切口
+suture /ˈsuːtʃə(r)/ n./v. 缝线；缝合
+scalpel /ˈskælpəl/ n. 手术刀
+hemostasis /ˌhiːməˈsteɪsɪs/ n. 止血
+
+二、普通外科
+
+general surgery /ˈdʒenrl ˈsɜːdʒəri/ n. 普通外科
+general surgeon /ˈdʒenrl ˈsɜːdʒən/ n. 普外科医生
+appendicitis /əˌpendəˈsaɪtɪs/ n. 阑尾炎
+appendectomy /ˌæpenˈdektəmi/ n. 阑尾切除术
+cholecystitis /ˌkɒləsɪsˈtaɪtɪs/ n. 胆囊炎
+cholecystectomy /ˌkɒləsɪsˈtektəmi/ n. 胆囊切除术
+hernia /ˈhɜːniə/ n. 疝
+herniorrhaphy /ˌhɜːniˈɒrəfi/ n. 疝修补术
+intestinal /ɪnˈtestɪnl/ adj. 肠的
+bowel /ˈbaʊəl/ n. 肠
+obstruction /əbˈstrʌkʃn/ n. 梗阻
+peritonitis /ˌperɪtəˈnaɪtɪs/ n. 腹膜炎
+hemorrhoid /ˈhemərɔɪd/ n. 痔疮
+fistula /ˈfɪstjulə/ n. 瘘管
+abscess /ˈæbses/ n. 脓肿
+
+三、骨科
+
+orthopedics /ˌɔːθəˈpiːdɪks/ n. 骨科学
+orthopedic surgeon /ˌɔːθəˈpiːdɪk ˈsɜːdʒən/ n. 骨科医生
+bone /bəʊn/ n. 骨
+fracture /ˈfræktʃə(r)/ n./v. 骨折
+dislocation /ˌdɪsləˈkeɪʃn/ n. 脱位
+spine /spaɪn/ n. 脊柱
+vertebra /ˈvɜːtɪbrə/ n. 椎骨
+intervertebral disc /ˌɪntəˈvɜːtɪbrəl dɪsk/ n. 椎间盘
+scoliosis /ˌskəʊliˈəʊsɪs/ n. 脊柱侧弯
+osteoarthritis /ˌɒstiəʊɑːˈθraɪtɪs/ n. 骨关节炎
+osteoporosis /ˌɒstiəʊpəˈrəʊsɪs/ n. 骨质疏松症
+arthroscopy /ɑːˈθrɒskəpi/ n. 关节镜检查
+tendon /ˈtendən/ n. 肌腱
+ligament /ˈlɪɡəmənt/ n. 韧带
+prosthesis /prɒsˈθiːsɪs/ n. 假体；义肢
+
+四、神经外科
+
+neurosurgery /ˌnjʊərəʊˈsɜːdʒəri/ n. 神经外科
+neurosurgeon /ˌnjʊərəʊˈsɜːdʒən/ n. 神经外科医生
+brain /breɪn/ n. 脑
+cerebrum /ˈserəbrəm/ n. 大脑
+cerebellum /ˌserəˈbeləm/ n. 小脑
+skull /skʌl/ n. 颅骨
+hematoma /ˌhiːməˈtəʊmə/ n. 血肿
+meningioma /məˌnɪndʒiˈəʊmə/ n. 脑膜瘤
+glioma /ɡlaɪˈəʊmə/ n. 神经胶质瘤
+spinal cord /ˈspaɪnl kɔːd/ n. 脊髓
+nerve root /nɜːv ruːt/ n. 神经根
+
+五、泌尿外科
+
+urology /jʊəˈrɒlədʒi/ n. 泌尿外科学
+urologist /jʊəˈrɒlədʒɪst/ n. 泌尿外科医生
+urinary /ˈjʊərənri/ adj. 泌尿的
+bladder /ˈblædə(r)/ n. 膀胱
+urethra /jʊəˈriːθrə/ n. 尿道
+prostate /ˈprɒsteɪt/ n. 前列腺
+prostatitis /ˌprɒstəˈtaɪtɪs/ n. 前列腺炎
+urolithiasis /ˌjʊərəʊlɪˈθaɪəsɪs/ n. 尿石症
+calculus /ˈkælkjələs/ n. 结石
+cystoscopy /sɪˈstɒskəpi/ n. 膀胱镜检查
+
+六、胸外科
+
+thoracic surgery /θɔːˈræsɪk ˈsɜːdʒəri/ n. 胸外科
+thoracic surgeon /θɔːˈræsɪk ˈsɜːdʒən/ n. 胸外科医生
+chest /tʃest/ n. 胸
+thorax /ˈθɔːræks/ n. 胸廓
+lung /lʌŋ/ n. 肺
+pneumothorax /ˌnjuːməʊˈθɔːræks/ n. 气胸
+hemothorax /ˌhiːməʊˈθɔːræks/ n. 血胸
+esophagus /iˈsɒfəɡəs/ n. 食管
+esophageal cancer /iˌsɒfəˈdʒiːəl ˈkænsə(r)/ n. 食管癌
+
+七、心脏大血管外科
+
+cardiac surgery /ˈkɑːdiæk ˈsɜːdʒəri/ n. 心脏外科
+cardiovascular surgeon /ˌkɑːdiəʊˈvæskjələ(r) ˈsɜːdʒən/ n. 心血管外科医生
+vein /veɪn/ n. 静脉
+artery /ˈɑːtəri/ n. 动脉
+vascular /ˈvæskjələ(r)/ adj. 血管的
+aneurysm /ˈænjərɪzəm/ n. 动脉瘤
+coronary artery bypass grafting /ˈkɒrənri ˈɑːtəri ˈbaɪpɑːs ˈɡrɑːftɪŋ/ n. 冠状动脉搭桥术
+
+八、烧伤整形科
+
+plastic surgery /ˈplæstɪk ˈsɜːdʒəri/ n. 整形外科
+plastic surgeon /ˈplæstɪk ˈsɜːdʒən/ n. 整形外科医生
+burn /bɜːn/ n./v. 烧伤
+scar /skɑː(r)/ n. 疤痕
+deformity /dɪˈfɔːməti/ n. 畸形
+rhytidectomy /ˌrɪtɪˈdektəmi/ n. 除皱术
+liposuction /ˈlɪpəʊsʌkʃn/ n. 吸脂术
+skin graft /skɪn ɡrɑːft/ n. 植皮
+回复继续，我发第三部分：妇产科、儿科、急诊科、ICU 词汇。
+
+第三部分：妇产科 / 儿科 / 急诊科 / 重症医学科（ICU）词汇
+
+一、妇产科
+
+gynecology /ˌɡaɪnɪˈkɒlədʒi/ n. 妇科学
+obstetrics /əbˈstetrɪks/ n. 产科学
+obstetrics and gynecology n. 妇产科
+gynecologist /ˌɡaɪnɪˈkɒlədʒɪst/ n. 妇科医生
+obstetrician /ˌɒbstəˈtrɪʃn/ n. 产科医生
+uterus /ˈjuːtərəs/ n. 子宫
+ovary /ˈəʊvəri/ n. 卵巢
+ovum /ˈəʊvəm/ n. 卵细胞
+fallopian tube /fəˈləʊpiən tjuːb/ n. 输卵管
+cervix /ˈsɜːvɪks/ n. 宫颈
+vagina /vəˈdʒaɪnə/ n. 阴道
+menstruation /ˌmenstruˈeɪʃn/ n. 月经
+amenorrhea /eɪˌmenəˈriːə/ n. 闭经
+dysmenorrhea /ˌdɪsmenəˈriːə/ n. 痛经
+pregnancy /ˈpreɡnənsi/ n. 妊娠；怀孕
+pregnant /ˈpreɡnənt/ adj. 怀孕的
+prenatal /ˌpriːˈneɪtl/ adj. 产前的
+postnatal /ˌpəʊstˈneɪtl/ adj. 产后的
+abortion /əˈbɔːʃn/ n. 流产
+miscarriage /ˈmɪskærɪdʒ/ n. 自然流产
+labor /ˈleɪbə(r)/ n. 分娩
+delivery /dɪˈlɪvəri/ n. 分娩；接生
+cesarean section /sɪˈzeəriən ˈsekʃn/ n. 剖宫产
+placenta /pləˈsentə/ n. 胎盘
+amniotic fluid /ˌæmniˈɒtɪk ˈfluːɪd/ n. 羊水
+pelvis /ˈpelvɪs/ n. 骨盆
+
+二、儿科
+
+pediatrics /ˌpiːdiˈætrɪks/ n. 儿科学
+pediatrician /ˌpiːdiəˈtrɪʃn/ n. 儿科医生
+infant /ˈɪnfənt/ n. 婴儿
+newborn /ˈnjuːbɔːn/ n./adj. 新生儿；新生的
+child /tʃaɪld/ n. 儿童
+adolescent /ˌædəˈlesnt/ n./adj. 青少年；青春期的
+pediatric surgery n. 小儿外科
+neonatology /ˌniːəʊneɪˈtɒlədʒi/ n. 新生儿科学
+neonate /ˈniːəʊneɪt/ n. 新生儿
+jaundice /ˈdʒɔːndɪs/ n. 黄疸
+febrile /ˈfiːbraɪl/ adj. 发热的
+malnutrition /ˌmælnjuˈtrɪʃn/ n. 营养不良
+inoculation /ɪˌnɒkjuˈleɪʃn/ n. 预防接种
+vaccination /ˌvæksɪˈneɪʃn/ n. 疫苗接种
+
+三、急诊科
+
+emergency department /iˈmɜːdʒənsi dɪˈpɑːtmənt/ n. 急诊科
+emergency medicine /iˈmɜːdʒənsi ˈmedsn/ n. 急诊医学
+emergency physician n. 急诊医生
+emergency case n. 急诊病例
+rescue /ˈreskjuː/ n./v. 抢救
+resuscitation /rɪˌsʌsɪˈteɪʃn/ n. 复苏
+CPR (cardiopulmonary resuscitation) n. 心肺复苏
+trauma /ˈtrɔːmə/ n. 创伤
+shock /ʃɒk/ n. 休克
+hemorrhage /ˈhemərɪdʒ/ n. 出血
+fracture /ˈfræktʃə(r)/ n. 骨折
+craniocerebral trauma /ˌkreɪniəʊsəˈriːbrəl ˈtrɔːmə/ n. 颅脑损伤
+acute abdomen /əˈkjuːt ˈæbdəmən/ n. 急腹症
+poisoning /ˈpɔɪzənɪŋ/ n. 中毒
+first aid /ˌfɜːst ˈeɪd/ n. 急救
+
+四、重症医学科（ICU）
+
+intensive care unit /ɪnˈtensɪv keə ˈjuːnɪt/ n. 重症监护室（ICU）
+critical care /ˈkrɪtɪkl keə/ n. 重症医学
+critical care physician n. 重症科医生
+monitor /ˈmɒnɪtə(r)/ n./v. 监护；监测
+ventilator /ˈventɪleɪtə(r)/ n. 呼吸机
+mechanical ventilation /məˈkænɪkl ˌventɪˈleɪʃn/ n. 机械通气
+intubation /ˌɪntjuˈbeɪʃn/ n. 气管插管
+critical patient /ˈkrɪtɪkl ˈpeɪʃnt/ n. 危重病人
+sepsis /ˈsepsɪs/ n. 脓毒症
+multiple organ dysfunction syndrome n. 多器官功能障碍综合征
+sedation /sɪˈdeɪʃn/ n. 镇静
+analgesia /ˌænəlˈdʒiːziə/ n. 镇痛
+回复 继续，我发第四部分：皮肤科 / 眼科 / 耳鼻喉科 / 口腔科。
+
+第四部分：皮肤科 / 眼科 / 耳鼻咽喉科 / 口腔科词汇
+
+一、皮肤科
+
+dermatology /ˌdɜːməˈtɒlədʒi/ n. 皮肤病学
+dermatologist /ˌdɜːməˈtɒlədʒɪst/ n. 皮肤科医生
+skin /skɪn/ n. 皮肤
+rash /ræʃ/ n. 皮疹
+eczema /ˈeksɪmə/ n. 湿疹
+psoriasis /səˈraɪəsɪs/ n. 银屑病
+urticaria /ˌɜːtɪˈkeəriə/ n. 荨麻疹
+acne /ˈækni/ n. 痤疮
+wart /wɔːt/ n. 疣
+herpes /ˈhɜːpiːz/ n. 疱疹
+tinea /ˈtɪniə/ n. 癣
+fungus /ˈfʌŋɡəs/ n. 真菌
+leukoderma /ˌluːkəʊˈdɜːmə/ n. 白斑
+melanoma /ˌmeləˈnəʊmə/ n. 黑色素瘤
+biopsy /ˈbaɪɒpsi/ n. 活检
+infection /ɪnˈfekʃn/ n. 感染
+
+二、眼科
+
+ophthalmology /ˌɒfθælˈmɒlədʒi/ n. 眼科学
+ophthalmologist /ˌɒfθælˈmɒlədʒɪst/ n. 眼科医生
+eye /aɪ/ n. 眼睛
+eyelid /ˈaɪlɪd/ n. 眼睑
+cornea /ˈkɔːniə/ n. 角膜
+lens /lenz/ n. 晶状体
+retina /ˈretɪnə/ n. 视网膜
+iris /ˈaɪrɪs/ n. 虹膜
+pupil /ˈpjuːpl/ n. 瞳孔
+optic nerve /ˈɒptɪk nɜːv/ n. 视神经
+myopia /maɪˈəʊpiə/ n. 近视
+hyperopia /ˌhaɪpəˈrəʊpiə/ n. 远视
+astigmatism /əˈstɪɡmətɪzəm/ n. 散光
+glaucoma /ɡlaʊˈkəʊmə/ n. 青光眼
+cataract /ˈkætərækt/ n. 白内障
+conjunctivitis /kənˌdʒʌŋktɪˈvaɪtɪs/ n. 结膜炎
+xerophthalmia /ˌzɪərɒfˈθælmiə/ n. 干眼症
+ophthalmoscopy /ˌɒfθælˈmɒskəpi/ n. 眼底检查
+
+三、耳鼻咽喉科
+
+otolaryngology /ˌəʊtəʊlærɪŋˈɡɒlədʒi/ n. 耳鼻咽喉科学
+otorhinolaryngology /ˌəʊtəʊˌraɪnəʊlærɪŋˈɡɒlədʒi/ n. 耳鼻咽喉科学
+ENT doctor n. 耳鼻喉科医生
+ear /ɪə(r)/ n. 耳
+tympanic membrane /tɪmˈpænɪk ˈmembreɪn/ n. 鼓膜
+otitis /əʊˈtaɪtɪs/ n. 中耳炎
+deafness /ˈdefnəs/ n. 耳聋
+tinnitus /ˈtɪnɪtəs/ n. 耳鸣
+nose /nəʊz/ n. 鼻
+rhinitis /raɪˈnaɪtɪs/ n. 鼻炎
+sinusitis /ˌsaɪnəˈsaɪtɪs/ n. 鼻窦炎
+epistaxis /ˌepɪˈstæksɪs/ n. 鼻出血
+throat /θrəʊt/ n. 咽喉
+pharynx /ˈfærɪŋks/ n. 咽
+larynx /ˈlærɪŋks/ n. 喉
+tonsillitis /ˌtɒnsɪˈlaɪtɪs/ n. 扁桃体炎
+laryngitis /ˌlærɪnˈdʒaɪtɪs/ n. 喉炎
+hoarseness /ˈhɔːsnəs/ n. 声音嘶哑
+
+四、口腔科
+
+stomatology /ˌstəʊməˈtɒlədʒi/ n. 口腔科学
+dentistry /ˈdentɪstri/ n. 牙科学
+dentist /ˈdentɪst/ n. 牙医
+tooth /tuːθ/ n. 牙齿
+gum /ɡʌm/ n. 牙龈
+dental caries /ˈdentl ˈkeəriəz/ n. 龋齿
+pulp /pʌlp/ n. 牙髓
+gingivitis /ˌdʒɪndʒɪˈvaɪtɪs/ n. 牙龈炎
+periodontitis /ˌperiəɒnˈtaɪtɪs/ n. 牙周炎
+stomatitis /ˌstəʊməˈtaɪtɪs/ n. 口腔炎
+orthodontics /ˌɔːθəˈdɒntɪks/ n. 口腔正畸学
+extraction /ɪkˈstrækʃn/ n. 拔牙
+filling /ˈfɪlɪŋ/ n. 补牙
+denture /ˈdentʃə(r)/ n. 义齿
+implant /ɪmˈplɑːnt/ n. 种植体
+回复 继续，我发第五部分：精神科 / 感染科 / 康复科 / 全科 / 中医科 词汇。
+
+
+第五部分：精神科 / 感染科 / 康复科 / 全科 / 中医科词汇
+
+一、精神科 / 临床心理科
+
+psychiatry /saɪˈkaɪətri/ n. 精神病学
+psychiatrist /saɪˈkaɪətrɪst/ n. 精神科医生
+psychology /saɪˈkɒlədʒi/ n. 心理学
+psychologist /saɪˈkɒlədʒɪst/ n. 心理医生
+mental /ˈmentl/ adj. 精神的；心理的
+psychosis /saɪˈkəʊsɪs/ n. 精神病
+neurosis /njʊəˈrəʊsɪs/ n. 神经症
+depression /dɪˈpreʃn/ n. 抑郁症
+anxiety /æŋˈzaɪəti/ n. 焦虑症
+schizophrenia /ˌskɪtsəˈfriːniə/ n. 精神分裂症
+obsession /əbˈseʃn/ n. 强迫观念
+compulsion /kəmˈpʌlʃn/ n. 强迫行为
+phobia /ˈfəʊbiə/ n. 恐惧症
+insomnia /ɪnˈsɒmniə/ n. 失眠症
+dementia /dɪˈmenʃə/ n. 痴呆
+hallucination /həˌluːsɪˈneɪʃn/ n. 幻觉
+delusion /dɪˈluːʒn/ n. 妄想
+mood /muːd/ n. 情绪
+cognition /kɒɡˈnɪʃn/ n. 认知
+
+二、感染科
+
+infectious diseases /ɪnˈfekʃəs dɪˈziːzɪz/ n. 感染病科
+infectious disease specialist n. 感染科医生
+infection /ɪnˈfekʃn/ n. 感染
+contagious /kənˈteɪdʒəs/ adj. 接触传染的
+epidemic /ˌepɪˈdemɪk/ n./adj. 流行病；流行的
+virus /ˈvaɪrəs/ n. 病毒
+bacteria /bækˈtɪəriə/ n. 细菌
+fungus /ˈfʌŋɡəs/ n. 真菌
+parasite /ˈpærəsaɪt/ n. 寄生虫
+hepatitis /ˌhepəˈtaɪtɪs/ n. 肝炎
+AIDS (Acquired Immune Deficiency Syndrome) n. 艾滋病
+HIV (Human Immunodeficiency Virus) n. 人类免疫缺陷病毒
+antibiotic /ˌæntibaɪˈɒtɪk/ n. 抗生素
+antiviral /ˌæntiˈvaɪrəl/ adj./n. 抗病毒的；抗病毒药
+quarantine /ˈkwɒrəntiːn/ n./v. 隔离
+
+三、康复医学科
+
+rehabilitation medicine /ˌriːhəbɪlɪˈteɪʃn ˈmedsn/ n. 康复医学
+rehabilitation physician n. 康复科医生
+rehabilitation /ˌriːhəbɪlɪˈteɪʃn/ n. 康复
+physical therapy /ˈfɪzɪkl ˈθerəpi/ n. 物理治疗
+occupational therapy /ˌɒkjuˈpeɪʃənl ˈθerəpi/ n. 作业治疗
+kinesiology /kɪˌniːsiˈɒlədʒi/ n. 运动疗法
+paralysis /pəˈræləsɪs/ n. 瘫痪
+dysfunction /dɪsˈfʌŋkʃn/ n. 功能障碍
+mobility /məʊˈbɪləti/ n. 活动能力
+orthosis /ɔːˈθəʊsɪs/ n. 矫形器
+prosthesis /prɒsˈθiːsɪs/ n. 假体
+ambulation /ˌæmbjuˈleɪʃn/ n. 行走
+
+四、全科医学科
+
+general practice /ˈdʒenrl ˈpræktɪs/ n. 全科医学
+general practitioner /ˈdʒenrl prækˈtɪʃənə(r)/ n. 全科医生（GP）
+primary care /ˈpraɪməri keə(r)/ n. 初级保健
+family medicine /ˈfæməli ˈmedsn/ n. 家庭医学
+comprehensive care /ˌkɒmprɪˈhensɪv keə(r)/ n. 综合诊疗
+prevention /prɪˈvenʃn/ n. 预防
+health care /helθ keə(r)/ n. 医疗保健
+
+五、中医科 / 中医相关
+
+traditional Chinese medicine (TCM) n. 中医
+Chinese herbology n. 中药学
+herbal medicine /ˈhɜːbl ˈmedsn/ n. 草药
+acupuncture /ˈækjupʌŋktʃə(r)/ n. 针灸
+moxibustion /ˌmɒksɪˈbʌstʃən/ n. 艾灸
+massage /ˈmæsɑːʒ/ n./v. 推拿；按摩
+qi /tʃiː/ n. 气
+blood /blʌd/ n. 血
+yin /jɪn/ n. 阴
+yang /jæŋ/ n. 阳
+deficiency /dɪˈfɪʃnsi/ n. 虚
+excess /ɪkˈses/ n. 实
+cold /kəʊld/ n./adj. 寒
+heat /hiːt/ n./adj. 热
+meridian /məˈrɪdiən/ n. 经络
+acupoint /ˈækjupɔɪnt/ n. 穴位
+回复 继续，我发第六部分：医技科室词汇（检验、影像、超声、病理、药剂）。
+
+第六部分：医技科室词汇（检验 / 影像 / 超声 / 病理 / 药剂）
+
+一、医学检验科
+
+laboratory /ləˈbɒrətri/ n. 实验室；检验科
+lab technician /læb tekˈnɪʃn/ n. 检验技师
+test /test/ n./v. 检验；试验
+specimen /ˈspesɪmən/ n. 标本
+sample /ˈsɑːmpl/ n. 样本
+blood test n. 验血
+urine test n. 验尿
+stool test n. 粪便检查
+routine /ruːˈtiːn/ n./adj. 常规；常规的
+blood routine n. 血常规
+urine routine n. 尿常规
+biochemistry /ˌbaɪəʊˈkemɪstri/ n. 生物化学
+immunoassay /ˌɪmjuˈnəʊæseɪ/ n. 免疫检测
+pathogen /ˈpæθədʒən/ n. 病原体
+antigen /ˈæntɪdʒən/ n. 抗原
+antibody /ˈæntibɒdi/ n. 抗体
+positive /ˈpɒzətɪv/ adj. 阳性的
+negative /ˈneɡətɪv/ adj. 阴性的
+normal /ˈnɔːml/ adj. 正常的
+abnormal /æbˈnɔːml/ adj. 异常的
+
+二、医学影像科
+
+radiology /ˌreɪdiˈɒlədʒi/ n. 放射科；医学影像科
+radiologist /ˌreɪdiˈɒlədʒɪst/ n. 影像科医生
+X-ray /ˈeks reɪ/ n./v. X线；拍片
+CT (computed tomography) n. 计算机断层扫描
+MRI (magnetic resonance imaging) n. 磁共振成像
+scan /skæn/ n./v. 扫描
+radiation /ˌreɪdiˈeɪʃn/ n. 辐射
+contrast /ˈkɒntrɑːst/ n. 造影剂
+film /fɪlm/ n. 胶片
+image /ˈɪmɪdʒ/ n. 影像
+radiography /ˌreɪdiˈɒɡrəfi/ n. 放射摄影
+
+三、超声科
+
+ultrasound /ˈʊltrəsaʊnd/ n. 超声
+ultrasonography /ˌʌltrəsəˈnɒɡrəfi/ n. 超声检查
+ultrasound doctor n. 超声科医生
+Doppler /ˈdɒplə(r)/ n. 多普勒
+B-ultrasound n. B超
+echo /ˈekəʊ/ n. 回声
+lesion /ˈliːʒn/ n. 病变
+mass /mæs/ n. 肿块
+effusion /ɪˈfjuːʒn/ n. 积液
+
+四、病理科
+
+pathology /pəˈθɒlədʒi/ n. 病理学
+pathologist /pəˈθɒlədʒɪst/ n. 病理科医生
+biopsy /ˈbaɪɒpsi/ n. 活检
+pathological change n. 病理改变
+tissue /ˈtɪʃuː/ n. 组织
+cell /sel/ n. 细胞
+hyperplasia /ˌhaɪpəˈpleɪziə/ n. 增生
+metaplasia /ˌmetəˈpleɪziə/ n. 化生
+atrophy /ˈætrəfi/ n. 萎缩
+benign /bɪˈnaɪn/ adj. 良性的
+malignant /məˈlɪɡnənt/ adj. 恶性的
+cancer /ˈkænsə(r)/ n. 癌
+tumor /ˈtjuːmə(r)/ n. 肿瘤
+metastasis /məˈtæstəsɪs/ n. 转移
+
+五、药剂科 / 药学
+
+pharmacy /ˈfɑːməsi/ n. 药房；药剂科
+pharmacist /ˈfɑːməsɪst/ n. 药师
+pharmacology /ˌfɑːməˈkɒlədʒi/ n. 药理学
+drug /drʌɡ/ n. 药品
+medicine /ˈmedsn/ n. 药
+prescription /prɪˈskrɪpʃn/ n. 处方
+over-the-counter (OTC) adj. 非处方的
+dose /dəʊs/ n. 剂量
+dosage /ˈdəʊsɪdʒ/ n. 用法用量
+tablet /ˈtæblət/ n. 片剂
+capsule /ˈkæpsjuːl/ n. 胶囊
+injection /ɪnˈdʒekʃn/ n. 注射剂
+ointment /ˈɔɪntmənt/ n. 软膏
+syrup /ˈsɪrəp/ n. 糖浆
+side effect n. 副作用
+allergy /ˈælədʒi/ n. 过敏
+antibiotic /ˌæntibaɪˈɒtɪk/ n. 抗生素
+analgesic /ˌænəlˈdʒiːzɪk/ n./adj. 镇痛药；镇痛的
+回复 继续，我发第七部分：护理常用核心词汇 + 诊疗基础词汇（整套最后一部分）。
+
+第七部分：护理常用 + 诊疗基础词汇（全套最后一部分）
+
+一、护理核心词汇
+
+nursing /ˈnɜːsɪŋ/ n. 护理
+nurse /nɜːs/ n. 护士
+head nurse /hed nɜːs/ n. 护士长
+patient /ˈpeɪʃnt/ n. 病人
+ward /wɔːd/ n. 病房
+inpatient /ˈɪnpeɪʃnt/ n. 住院病人
+outpatient /ˈaʊtpeɪʃnt/ n. 门诊病人
+vital signs /ˈvaɪtl saɪnz/ n. 生命体征
+temperature /ˈtemprətʃə(r)/ n. 体温
+pulse /pʌls/ n. 脉搏
+respiration /ˌrespəˈreɪʃn/ n. 呼吸
+blood pressure /blʌd ˈpreʃə(r)/ n. 血压
+oxygen /ˈɒksɪdʒən/ n. 氧气
+oxygen inhalation /ˈɒksɪdʒən ˌɪnhəˈleɪʃn/ n. 吸氧
+injection /ɪnˈdʒekʃn/ n. 注射
+intravenous /ˌɪntrəˈviːnəs/ adj. 静脉的
+infusion /ɪnˈfjuːʒn/ n. 输液
+dressing /ˈdresɪŋ/ n. 敷料
+wound care /wuːnd keə(r)/ n. 伤口护理
+catheter /ˈkæθətə(r)/ n. 导管
+nursing record /ˈnɜːsɪŋ ˈrekɔːd/ n. 护理记录
+health education /helθ ˌedʒuˈkeɪʃn/ n. 健康教育
+
+二、诊疗基础通用词汇
+
+symptom /ˈsɪmptəm/ n. 症状
+sign /saɪn/ n. 体征
+history /ˈhɪstri/ n. 病史
+medical history /ˈmedɪkl ˈhɪstri/ n. 既往史
+physical examination /ˈfɪzɪkl ɪɡˌzæmɪˈneɪʃn/ n. 体格检查
+diagnosis /ˌdaɪəɡˈnəʊsɪs/ n. 诊断
+differential diagnosis /ˌdɪfəˈrenʃl ˌdaɪəɡˈnəʊsɪs/ n. 鉴别诊断
+treatment /ˈtriːtmənt/ n. 治疗
+therapy /ˈθerəpi/ n. 疗法
+prognosis /prɒɡˈnəʊsɪs/ n. 预后
+follow-up /ˈfɒləʊ ʌp/ n./v. 随访
+acute /əˈkjuːt/ adj. 急性的
+chronic /ˈkrɒnɪk/ adj. 慢性的
+congenital /kənˈdʒenɪtl/ adj. 先天性的
+hereditary /həˈredɪtri/ adj. 遗传性的
+benign /bɪˈnaɪn/ adj. 良性的
+malignant /məˈlɪɡnənt/ adj. 恶性的
+fever /ˈfiːvə(r)/ n. 发热
+pain /peɪn/ n. 疼痛
+edema /ɪˈdiːmə/ n. 水肿
+fatigue /fəˈtiːɡ/ n. 疲劳
+nausea /ˈnɔːziə/ n. 恶心
+vomit /ˈvɒmɪt/ v./n. 呕吐
+consciousness /ˈkɒnʃəsnəs/ n. 意识
+disability /ˌdɪsəˈbɪləti/ n. 残疾
+recover /rɪˈkʌvə(r)/ v. 康复
+relapse /rɪˈlæps/ n./v. 复发

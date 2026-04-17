@@ -1,0 +1,752 @@
+Word List 2 亚洲国家及首都
+Afghanistan /æfˈɡænɪstæn/ n. 阿富汗
+Kabul /kəˈbuːl/ n. 喀布尔
+Armenia /ɑːˈmiːniə/ n. 亚美尼亚
+Yerevan /ˌjereˈvɑːn/ n. 埃里温
+Azerbaijan /ˌɑːzəbaɪˈdʒɑːn/ n. 阿塞拜疆
+Baku /bɑːˈkuː/ n. 巴库
+Bahrain /bɑːˈreɪn/ n. 巴林
+Manama /məˈnæmə/ n. 麦纳麦
+Bangladesh /ˌbæŋɡəˈleʃ/ n. 孟加拉国
+Dhaka /ˈdɑːkə/ n. 达卡
+Bhutan /buːˈtɑːn/ n. 不丹
+Thimphu /ˈθɪmpuː/ n. 廷布
+Brunei /ˈbruːnaɪ/ n. 文莱
+Bandar Seri Begawan /ˌbændɑː ˈseri bəˈɡɑːwən/ n. 斯里巴加湾市
+Cambodia /kæmˈbəʊdiə/ n. 柬埔寨
+Phnom Penh /pəˈnɒm ˈpen/ n. 金边
+China /ˈtʃaɪnə/ n. 中国
+Beijing /ˌbeɪˈdʒɪŋ/ n. 北京
+Cyprus /ˈsaɪprəs/ n. 塞浦路斯
+Nicosia /ˌnɪkəˈsiːə/ n. 尼科西亚
+East Timor /ˌiːst ˈtiːmɔː/ n. 东帝汶
+Dili /ˈdɪli/ n. 帝力
+Georgia /ˈdʒɔːdʒə/ n. 格鲁吉亚
+Tbilisi /təˈbɪlɪsi/ n. 第比利斯
+India /ˈɪndiə/ n. 印度
+New Delhi /ˌnjuː ˈdeli/ n. 新德里
+Indonesia /ˌɪndəˈniːʒə/ n. 印度尼西亚
+Jakarta /dʒəˈkɑːtə/ n. 雅加达
+Iran /ɪˈrɑːn/ n. 伊朗
+Tehran /teəˈræn/ n. 德黑兰
+Iraq /ɪˈrɑːk/ n. 伊拉克
+Baghdad /ˈbæɡdæd/ n. 巴格达
+Israel /ˈɪzreɪl/ n. 以色列
+Jerusalem /dʒəˈruːsələm/ n. 耶路撒冷
+Japan /dʒəˈpæn/ n. 日本
+Tokyo /ˈtəʊkiəʊ/ n. 东京
+Jordan /ˈdʒɔːdn/ n. 约旦
+Amman /əˈmæn/ n. 安曼
+Kazakhstan /ˌkæzəkˈstɑːn/ n. 哈萨克斯坦
+Astana /əˈstɑːnə/ n. 阿斯塔纳
+Kuwait /kəˈweɪt/ n. 科威特
+Kuwait City /kəˈweɪt ˈsɪti/ n. 科威特城
+Kyrgyzstan /ˈkɜːɡɪstɑːn/ n. 吉尔吉斯斯坦
+Bishkek /ˈbɪʃkek/ n. 比什凯克
+Laos /laʊz/ n. 老挝
+Vientiane /viˌenˈtiːən/ n. 万象
+Lebanon /ˈlebənən/ n. 黎巴嫩
+Beirut /beɪˈruːt/ n. 贝鲁特
+Malaysia /məˈleɪʒə/ n. 马来西亚
+Kuala Lumpur /ˌkwɑːlə ˈlʊmpʊə/ n. 吉隆坡
+Maldives /ˈmɔːldiːvz/ n. 马尔代夫
+Malé /ˈmɑːleɪ/ n. 马累
+Mongolia /mɒŋˈɡəʊliə/ n. 蒙古
+Ulaanbaatar /ˌuːlɑːnˈbɑːtə(r)/ n. 乌兰巴托
+Myanmar /ˈmjænmɑː(r)/ n. 缅甸
+Nay Pyi Taw /neɪ piː ˈtɔː/ n. 内比都
+Nepal /nɪˈpɔːl/ n. 尼泊尔
+Kathmandu /ˌkɑːtmɑːnˈduː/ n. 加德满都
+North Korea /nɔːθ kəˈriə/ n. 朝鲜
+Pyongyang /ˈpjʌŋˈjæŋ/ n. 平壤
+Oman /əʊˈmɑːn/ n. 阿曼
+Muscat /ˈmʌskæt/ n. 马斯喀特
+Pakistan /ˌpɑːkɪˈstɑːn/ n. 巴基斯坦
+Islamabad /ɪzˈlɑːməbæd/ n. 伊斯兰堡
+Palestine /ˈpæləstaɪn/ n. 巴勒斯坦
+Ramallah /rəˈmælə/ n. 拉马拉
+Philippines /ˈfɪlɪpiːnz/ n. 菲律宾
+Manila /məˈnɪlə/ n. 马尼拉
+Qatar /ˈkʌtɑː(r)/ n. 卡塔尔
+Doha /ˈdəʊhə/ n. 多哈
+Saudi Arabia /ˌsaʊdi əˈreɪbiə/ n. 沙特阿拉伯
+Riyadh /riˈjɑːd/ n. 利雅得
+Singapore /ˌsɪŋɡəˈpɔː/ n. 新加坡
+Singapore /ˌsɪŋɡəˈpɔː/ n. 新加坡市
+South Korea /saʊ kəˈriə/ n. 韩国
+Seoul /səʊl/ n. 首尔
+Sri Lanka /ˌsriː ˈlæŋkə/ n. 斯里兰卡
+Sri Jayawardenepura Kotte /ˌsriː ˌdʒæjəwɑːdəˈneɪpərə ˈkɒteɪ/ n. 斯里贾亚瓦德纳普拉科特
+Syria /ˈsɪriə/ n. 叙利亚
+Damascus /dəˈmæskəs/ n. 大马士革
+Tajikistan /tɑːˌdʒɪkɪˈstɑːn/ n. 塔吉克斯坦
+Dushanbe /duːˈʃɑːnbə/ n. 杜尚别
+Thailand /ˈtaɪlænd/ n. 泰国
+Bangkok /ˌbæŋˈkɒk/ n. 曼谷
+Turkey /ˈtɜːki/ n. 土耳其
+Ankara /ˈæŋkərə/ n. 安卡拉
+Turkmenistan /ˌtɜːkmenɪˈstɑːn/ n. 土库曼斯坦
+Ashgabat /ˌæʃɡəˈbɑːt/ n. 阿什哈巴德
+United Arab Emirates /juˈnaɪtɪd ˈærəb ˈemɪrəts/ n. 阿联酋
+Abu Dhabi /ˌæbuː ˈdæbi/ n. 阿布扎比
+Uzbekistan /ʊzˌbekɪˈstɑːn/ n. 乌兹别克斯坦
+Tashkent /tæʃˈkent/ n. 塔什干
+Vietnam /ˌvjetˈnæm/ n. 越南
+Hanoi /hæˈnɔɪ/ n. 河内
+Yemen /ˈjemən/ n. 也门
+Sana'a /sɑːˈnɑː/ n. 萨那
+
+Word List 3 欧洲国家及首都
+Albania /ælˈbeɪniə/ n. 阿尔巴尼亚
+Tirana /tɪˈrɑːnə/ n. 地拉那
+Andorra /ænˈdɔːrə/ n. 安道尔
+Andorra la Vella /ænˈdɔːrə lə ˈvelə/ n. 安道尔城
+Austria /ˈɒstriə/ n. 奥地利
+Vienna /viˈenə/ n. 维也纳
+Belarus /ˌbeləˈruːs/ n. 白俄罗斯
+Minsk /mɪnsk/ n. 明斯克
+Belgium /ˈbeldʒəm/ n. 比利时
+Brussels /ˈbrʌslz/ n. 布鲁塞尔
+Bosnia and Herzegovina /ˌbɒzniə ənd ˌhɜːtsəɡəˈviːnə/ n. 波黑
+Sarajevo /ˌsærəˈjeɪvəʊ/ n. 萨拉热窝
+Bulgaria /bʌlˈɡeəriə/ n. 保加利亚
+Sofia /ˈsəʊfiə/ n. 索非亚
+Croatia /krəʊˈeɪʃə/ n. 克罗地亚
+Zagreb /ˈzæɡreb/ n. 萨格勒布
+Czech Republic /tʃek rɪˈpʌblɪk/ n. 捷克
+Prague /prɑːɡ/ n. 布拉格
+Denmark /ˈdenmɑːk/ n. 丹麦
+Copenhagen /ˌkəʊpənˈheɪɡən/ n. 哥本哈根
+Estonia /eˈstəʊniə/ n. 爱沙尼亚
+Tallinn /ˈtælɪn/ n. 塔林
+Finland /ˈfɪnlənd/ n. 芬兰
+Helsinki /ˈhelsɪŋki/ n. 赫尔辛基
+France /frɑːns/ n. 法国
+Paris /ˈpærɪs/ n. 巴黎
+Germany /ˈdʒɜːməni/ n. 德国
+Berlin /bɜːˈlɪn/ n. 柏林
+Greece /ɡriːs/ n. 希腊
+Athens /ˈæθənz/ n. 雅典
+Hungary /ˈhʌŋɡəri/ n. 匈牙利
+Budapest /ˈbuːdəpest/ n. 布达佩斯
+Iceland /ˈaɪslənd/ n. 冰岛
+Reykjavik /ˈreikjəˌviːk/ n. 雷克雅未克
+Ireland /ˈaɪələnd/ n. 爱尔兰
+Dublin /ˈdʌblɪn/ n. 都柏林
+Italy /ˈɪtəli/ n. 意大利
+Rome /rəʊm/ n. 罗马
+Latvia /ˈlætviə/ n. 拉脱维亚
+Riga /ˈriːɡə/ n. 里加
+Liechtenstein /ˈlɪktənstaɪn/ n. 列支敦士登
+Vaduz /vɑːˈduːts/ n. 瓦杜兹
+Lithuania /ˌlɪθjuˈeɪniə/ n. 立陶宛
+Vilnius /ˈvɪlnɪəs/ n. 维尔纽斯
+Luxembourg /ˈlʌksəmbɜːɡ/ n. 卢森堡
+Luxembourg City /ˈlʌksəmbɜːɡ ˈsɪti/ n. 卢森堡市
+Malta /ˈmɔːltə/ n. 马耳他
+Valletta /vəˈletə/ n. 瓦莱塔
+Moldova /mɒlˈdɒvə/ n. 摩尔多瓦
+Chisinau /ˌkɪʃɪˈnaʊ/ n. 基希讷乌
+Monaco /ˈmɒnəkəʊ/ n. 摩纳哥
+Monaco /ˈmɒnəkəʊ/ n. 摩纳哥城
+Montenegro /ˌmɒntɪˈniːɡrəʊ/ n. 黑山
+Podgorica /ˌpɒdɡəˈriːtsə/ n. 波德戈里察
+Netherlands /ˈneðələndz/ n. 荷兰
+Amsterdam /ˈæmstədæm/ n. 阿姆斯特丹
+North Macedonia /nɔːθ ˌmæsəˈdəʊniə/ n. 北马其顿
+Skopje /ˈskɒpjeɪ/ n. 斯科普里
+Norway /ˈnɔːweɪ/ n. 挪威
+Oslo /ˈɒzləʊ/ n. 奥斯陆
+Poland /ˈpəʊlənd/ n. 波兰
+Warsaw /ˈwɔːsɔː/ n. 华沙
+Portugal /ˈpɔːtʃʊɡəl/ n. 葡萄牙
+Lisbon /ˈlɪzbən/ n. 里斯本
+Romania /rəʊˈmeɪniə/ n. 罗马尼亚
+Bucharest /ˈbjuːkərest/ n. 布加勒斯特
+Russia /ˈrʌʃə/ n. 俄罗斯
+Moscow /ˈmɒskəʊ/ n. 莫斯科
+San Marino /ˌsæn məˈriːnəʊ/ n. 圣马力诺
+City of San Marino /ˈsɪti əv ˌsæn məˈriːnəʊ/ n. 圣马力诺市
+Serbia /ˈsɜːbiə/ n. 塞尔维亚
+Belgrade /ˌbelˈɡreɪd/ n. 贝尔格莱德
+Slovakia /sləʊˈvækiə/ n. 斯洛伐克
+Bratislava /ˌbrætɪˈslɑːvə/ n. 布拉迪斯拉发
+Slovenia /sləʊˈviːniə/ n. 斯洛文尼亚
+Ljubljana /ljuːˈbliːjɑːnə/ n. 卢布尔雅那
+Spain /speɪn/ n. 西班牙
+Madrid /məˈdrɪd/ n. 马德里
+Sweden /ˈswiːdn/ n. 瑞典
+Stockholm /ˈstɒkhəʊm/ n. 斯德哥尔摩
+Switzerland /ˈswɪtsələnd/ n. 瑞士
+Bern /bɜːn/ n. 伯尔尼
+Ukraine /juˈkreɪn/ n. 乌克兰
+Kyiv /ˈkiːjɪv/ n. 基辅
+United Kingdom /juˈnaɪtɪd ˈkɪŋdəm/ n. 英国
+London /ˈlʌndən/ n. 伦敦
+Vatican City /ˈvætɪkən ˈsɪti/ n. 梵蒂冈
+Vatican City /ˈvætɪkən ˈsɪti/ n. 梵蒂冈城
+
+Word List 4 非洲国家及首都
+Algeria /ælˈdʒɪəriə/ n. 阿尔及利亚
+Algiers /ælˈdʒɪəz/ n. 阿尔及尔
+Angola /æŋˈɡəʊlə/ n. 安哥拉
+Luanda /luˈɑːndə/ n. 罗安达
+Benin /beˈnɪn/ n. 贝宁
+Porto-Novo /ˌpɔːtəʊ ˈnəʊvəʊ/ n. 波多诺伏
+Botswana /bɒtˈswɑːnə/ n. 博茨瓦纳
+Gaborone /ˌɡæbəˈrəʊni/ n. 哈博罗内
+Burkina Faso /ˌbɜːkiːnə ˈfæsəʊ/ n. 布基纳法索
+Ouagadougou /ˌwɑːɡəˈduːɡuː/ n. 瓦加杜古
+Burundi /bʊˈrʌndi/ n. 布隆迪
+Gitega /ɡɪˈteɡə/ n. 基特加
+Cabo Verde /ˌkæbəʊ ˈvɜːdi/ n. 佛得角
+Praia /ˈpraɪə/ n. 普拉亚
+Cameroon /ˌkæməˈruːn/ n. 喀麦隆
+Yaoundé /ˌjɑːʊnˈdeɪ/ n. 雅温得
+Central African Republic /ˌsentrəl ˈæfrɪkən rɪˈpʌblɪk/ n. 中非
+Bangui /bæŋˈɡiː/ n. 班吉
+Chad /tʃæd/ n. 乍得
+N'Djamena /ən dʒɑːˈmenə/ n. 恩贾梅纳
+Comoros /ˈkɒmərɒz/ n. 科摩罗
+Moroni /məˈrəʊni/ n. 莫罗尼
+Congo /ˈkɒŋɡəʊ/ n. 刚果（布）
+Brazzaville /ˌbræzəˈvɪl/ n. 布拉柴维尔
+Democratic Republic of the Congo /ˌdeməˈkrætɪk rɪˈpʌblɪk əv ðə ˈkɒŋɡəʊ/ n. 刚果（金）
+Kinshasa /kɪnˈʃɑːsə/ n. 金沙萨
+Côte d'Ivoire /ˌkəʊt diːˈvwɑː/ n. 科特迪瓦
+Yamoussoukro /ˌjɑːmuːˈsuːkrəʊ/ n. 亚穆苏克罗
+Djibouti /dʒɪˈbuːti/ n. 吉布提
+Djibouti /dʒɪˈbuːti/ n. 吉布提市
+Egypt /ˈiːdʒɪpt/ n. 埃及
+Cairo /ˈkaɪərəʊ/ n. 开罗
+Equatorial Guinea /ˌekwəˈtɔːriəl ˈɡɪni/ n. 赤道几内亚
+Malabo /ˈmɑːləbəʊ/ n. 马拉博
+Eritrea /ˌerɪˈtreɪə/ n. 厄立特里亚
+Asmara /æzˈmɑːrə/ n. 阿斯马拉
+Eswatini /ˌeswɑːˈtiːni/ n. 斯威士兰
+Mbabane /mbəˈbɑːneɪ/ n. 姆巴巴内
+Ethiopia /ˌiːθiˈəʊpiə/ n. 埃塞俄比亚
+Addis Ababa /ˌædɪs ˈæbəbə/ n. 亚的斯亚贝巴
+Gabon /ɡæˈbɒn/ n. 加蓬
+Libreville /ˈliːbrəvɪl/ n. 利伯维尔
+Gambia /ˈɡæmbiə/ n. 冈比亚
+Banjul /ˈbændʒuːl/ n. 班珠尔
+Ghana /ˈɡɑːnə/ n. 加纳
+Accra /əˈkrɑː/ n. 阿克拉
+Guinea /ˈɡɪni/ n. 几内亚
+Conakry /ˈkɒnəkri/ n. 科纳克里
+Guinea-Bissau /ˌɡɪni bɪˈsaʊ/ n. 几内亚比绍
+Bissau /bɪˈsaʊ/ n. 比绍
+Kenya /ˈkenjə/ n. 肯尼亚
+Nairobi /ˌnaɪˈrəʊbi/ n. 内罗毕
+Lesotho /ləˈsuːtuː/ n. 莱索托
+Maseru /məˈzɪəruː/ n. 马塞卢
+Liberia /laɪˈbɪəriə/ n. 利比里亚
+Monrovia /mɒnˈrəʊviə/ n. 蒙罗维亚
+Libya /ˈlɪbiə/ n. 利比亚
+Tripoli /ˈtrɪpəli/ n. 的黎波里
+Madagascar /ˌmædəˈɡæskə(r)/ n. 马达加斯加
+Antananarivo /ˌæntənænəˈriːvəʊ/ n. 塔那那利佛
+Malawi /məˈlɑːwi/ n. 马拉维
+Lilongwe /lɪˈlɒŋɡweɪ/ n. 利隆圭
+Mali /ˈmɑːli/ n. 马里
+Bamako /ˈbæməkəʊ/ n. 巴马科
+Mauritania /ˌmɒrɪˈteɪniə/ n. 毛里塔尼亚
+Nouakchott /nwɑːkˈʃɒt/ n. 努瓦克肖特
+Mauritius /məˈrɪʃəs/ n. 毛里求斯
+Port Louis /ˌpɔːt ˈluːi/ n. 路易港
+Morocco /məˈrɒkəʊ/ n. 摩洛哥
+Rabat /rəˈbæt/ n. 拉巴特
+Mozambique /ˌməʊzəmˈbiːk/ n. 莫桑比克
+Maputo /məˈpuːtəʊ/ n. 马普托
+Namibia /nəˈmɪbiə/ n. 纳米比亚
+Windhoek /ˈvɪndhʊk/ n. 温得和克
+Niger /ˈniːdʒə(r)/ n. 尼日尔
+Niamey /njaːˈmeɪ/ n. 尼亚美
+Nigeria /naɪˈdʒɪəriə/ n. 尼日利亚
+Abuja /əˈbuːdʒə/ n. 阿布贾
+Rwanda /rʊˈændə/ n. 卢旺达
+Kigali /kɪˈɡɑːli/ n. 基加利
+São Tomé and Príncipe /ˌsaʊ təʊˈmeɪ ənd ˈprɪnsɪpeɪ/ n. 圣多美和普林西比
+São Tomé /ˌsaʊ təʊˈmeɪ/ n. 圣多美
+Senegal /ˌsenɪˈɡɔːl/ n. 塞内加尔
+Dakar /ˈdækɑː(r)/ n. 达喀尔
+Seychelles /seɪˈʃelz/ n. 塞舌尔
+Victoria /vɪkˈtɔːriə/ n. 维多利亚
+Sierra Leone /siˌerə liˈəʊni/ n. 塞拉利昂
+Freetown /ˈfriːtaʊn/ n. 弗里敦
+Somalia /səˈmɑːliə/ n. 索马里
+Mogadishu /ˌmɒɡəˈdɪʃuː/ n. 摩加迪沙
+South Africa /saʊ ˈæfrɪkə/ n. 南非
+Pretoria /prɪˈtɔːriə/ n. 比勒陀利亚
+South Sudan /saʊ suːˈdɑːn/ n. 南苏丹
+Juba /ˈdʒuːbə/ n. 朱巴
+Sudan /suːˈdɑːn/ n. 苏丹
+Khartoum /kɑːˈtuːm/ n. 喀土穆
+Tanzania /ˌtænzəˈniːə/ n. 坦桑尼亚
+Dodoma /dəˈdəʊmə/ n. 多多马
+Togo /ˈtəʊɡəʊ/ n. 多哥
+Lomé /ləʊˈmeɪ/ n. 洛美
+Tunisia /tjuˈnɪziə/ n. 突尼斯
+Tunis /ˈtjuːnɪs/ n. 突尼斯市
+Uganda /juˈɡændə/ n. 乌干达
+Kampala /kæmˈpɑːlə/ n. 坎帕拉
+Zambia /ˈzæmbiə/ n. 赞比亚
+Lusaka /luːˈsɑːkə/ n. 卢萨卡
+Zimbabwe /zɪmˈbɑːbweɪ/ n. 津巴布韦
+Harare /həˈrɑːreɪ/ n. 哈拉雷
+
+Word List 5 北美洲国家及首都
+Antigua and Barbuda /ænˈtiːɡə ənd bɑːˈbjuːdə/ n. 安提瓜和巴布达
+St. John's /seɪnt dʒɒnz/ n. 圣约翰
+Bahamas /bəˈhɑːməz/ n. 巴哈马
+Nassau /ˈnæsɔː/ n. 拿骚
+Barbados /bɑːˈbeɪdɒz/ n. 巴巴多斯
+Bridgetown /ˈbrɪdʒtaʊn/ n. 布里奇顿
+Belize /bəˈliːz/ n. 伯利兹
+Belmopan /ˈbelməpæn/ n. 贝尔莫潘
+Canada /ˈkænədə/ n. 加拿大
+Ottawa /ˈɒtəwə/ n. 渥太华
+Costa Rica /ˌkɒstə ˈriːkə/ n. 哥斯达黎加
+San José /ˌsæn həʊˈzeɪ/ n. 圣何塞
+Cuba /ˈkjuːbə/ n. 古巴
+Havana /həˈvænə/ n. 哈瓦那
+Dominica /ˌdɒmɪˈniːkə/ n. 多米尼克
+Roseau /rəʊˈzəʊ/ n. 罗索
+Dominican Republic /dəˈmɪnɪkən rɪˈpʌblɪk/ n. 多米尼加
+Santo Domingo /ˌsæntəʊ dəˈmɪŋɡəʊ/ n. 圣多明各
+El Salvador /el ˈsælvədɔː/ n. 萨尔瓦多
+San Salvador /ˌsæn ˈsælvədɔː/ n. 圣萨尔瓦多
+Grenada /ɡrəˈneɪdə/ n. 格林纳达
+St. George's /seɪnt ˈdʒɔːdʒɪz/ n. 圣乔治
+Guatemala /ˌɡwɑːtəˈmɑːlə/ n. 危地马拉
+Guatemala City /ˌɡwɑːtəˈmɑːlə ˈsɪti/ n. 危地马拉城
+Haiti /ˈheɪti/ n. 海地
+Port-au-Prince /ˌpɔːt əʊ ˈprɪns/ n. 太子港
+Honduras /hɒnˈdjʊərəs/ n. 洪都拉斯
+Tegucigalpa /təˌɡuːsɪˈɡælpə/ n. 特古西加尔巴
+Jamaica /dʒəˈmeɪkə/ n. 牙买加
+Kingston /ˈkɪŋstən/ n. 金斯顿
+Mexico /ˈmeksɪkəʊ/ n. 墨西哥
+Mexico City /ˈmeksɪkəʊ ˈsɪti/ n. 墨西哥城
+Nicaragua /ˌnɪkəˈræɡjuə/ n. 尼加拉瓜
+Managua /məˈnɑːɡwə/ n. 马那瓜
+Panama /ˈpænəmɑː/ n. 巴拿马
+Panama City /ˈpænəmɑː ˈsɪti/ n. 巴拿马城
+Saint Kitts and Nevis /seɪnt kɪts ənd ˈniːvɪs/ n. 圣基茨和尼维斯
+Basseterre /ˌbæsəˈteə(r)/ n. 巴斯特尔
+Saint Lucia /seɪnt ˈluːʃə/ n. 圣卢西亚
+Castries /kæˈstriː/ n. 卡斯特里
+Saint Vincent and the Grenadines /seɪnt ˈvɪnsnt ənd ðə ˈɡrenədiːnz/ n. 圣文森特和格林纳丁斯
+Kingstown /ˈkɪŋstaʊn/ n. 金斯敦
+Trinidad and Tobago /ˈtrɪnɪdæd ənd təˈbeɪɡəʊ/ n. 特立尼达和多巴哥
+Port of Spain /ˌpɔːt əv ˈspeɪn/ n. 西班牙港
+United States of America /juˈnaɪtɪd steɪts əv əˈmerɪkə/ n. 美国
+Washington D.C. /ˈwɒʃɪŋtən diː ˈsiː/ n. 华盛顿哥伦比亚特区
+
+Word List 6 南美洲国家及首都
+Argentina /ˌɑːdʒənˈtiːnə/ n. 阿根廷
+Buenos Aires /ˌbwenəs ˈaɪəriːz/ n. 布宜诺斯艾利斯
+Bolivia /bəˈlɪviə/ n. 玻利维亚
+Sucre /ˈsuːkreɪ/ n. 苏克雷
+Brazil /brəˈzɪl/ n. 巴西
+Brasília /brəˈzɪliə/ n. 巴西利亚
+Chile /ˈtʃɪli/ n. 智利
+Santiago /ˌsæntiˈɑːɡəʊ/ n. 圣地亚哥
+Colombia /kəˈlʌmbiə/ n. 哥伦比亚
+Bogotá /ˌbəʊɡəˈtɑː/ n. 波哥大
+Ecuador /ˈekwədɔː(r)/ n. 厄瓜多尔
+Quito /ˈkiːtəʊ/ n. 基多
+Guyana /ɡaɪˈɑːnə/ n. 圭亚那
+Georgetown /ˈdʒɔːdʒtaʊn/ n. 乔治敦
+Paraguay /ˈpærəɡwaɪ/ n. 巴拉圭
+Asunción /əˌsʌnsiˈɒn/ n. 亚松森
+Peru /pəˈruː/ n. 秘鲁
+Lima /ˈliːmə/ n. 利马
+Suriname /ˈsʊərɪnɑːm/ n. 苏里南
+Paramaribo /ˌpærəˈmærɪbəʊ/ n. 帕拉马里博
+Uruguay /ˈjʊərəɡwaɪ/ n. 乌拉圭
+Montevideo /ˌmɒntəvɪˈdeɪəʊ/ n. 蒙得维的亚
+Venezuela /ˌvenəˈzweɪlə/ n. 委内瑞拉
+Caracas /kəˈrækəs/ n. 加拉加斯
+
+Word List 7 大洋洲国家及首都
+Australia /ɒˈstreɪliə/ n. 澳大利亚
+Canberra /ˈkænbərə/ n. 堪培拉
+Federated States of Micronesia /ˈfedəreɪtɪd steɪts əv ˌmaɪkrəˈniːziə/ n. 密克罗尼西亚联邦
+Palikir /ˈpælɪkə(r)/ n. 帕利基尔
+Fiji /ˈfiːdʒiː/ n. 斐济
+Suva /ˈsuːvə/ n. 苏瓦
+Kiribati /ˈkɪrəbæs/ n. 基里巴斯
+South Tarawa /saʊθ təˈrɑːwə/ n. 南塔拉瓦
+Marshall Islands /ˈmɑːʃəl ˈaɪləndz/ n. 马绍尔群岛
+Majuro /məˈdʒʊərəʊ/ n. 马朱罗
+Nauru /nɑːˈuːruː/ n. 瑙鲁
+Yaren /ˈjɑːrən/ n. 亚伦区
+New Zealand /njuː ˈziːlənd/ n. 新西兰
+Wellington /ˈwelɪŋtən/ n. 惠灵顿
+Niue /nɪˈuːeɪ/ n. 纽埃
+Alofi /əˈlɒfi/ n. 阿洛菲
+Palau /pəˈlaʊ/ n. 帕劳
+Ngerulmud /ˌneɡəˈruːmʊd/ n. 梅莱凯奥克
+Papua New Guinea /ˌpæpjuə njuː ˈɡɪni/ n. 巴布亚新几内亚
+Port Moresby /ˌpɔːt ˈmɔːzbɪ/ n. 莫尔兹比港
+Samoa /səˈməʊə/ n. 萨摩亚
+Apia /əˈpiːə/ n. 阿皮亚
+Solomon Islands /ˈsɒləmən ˈaɪləndz/ n. 所罗门群岛
+Honiara /ˌhɒniˈɑːrə/ n. 霍尼亚拉
+Tonga /ˈtɒŋɡə/ n. 汤加
+Nuku'alofa /ˌnuːkuːəˈləʊfə/ n. 努库阿洛法
+Tuvalu /ˈtuːvəluː/ n. 图瓦卢
+Funafuti /ˌfjuːnəˈfuːti/ n. 富纳富提
+Vanuatu /ˌvɑːnuˈɑːtuː/ n. 瓦努阿图
+Port Vila /ˌpɔːt ˈviːlə/ n. 维拉港
+
+Word List 8 世界知名城市
+New York /ˌnjuː ˈjɔːk/ n. 纽约
+Los Angeles /ˌlɒs ˈændʒəliːz/ n. 洛杉矶
+Chicago /ʃɪˈkɑːɡəʊ/ n. 芝加哥
+Toronto /təˈrɒntəʊ/ n. 多伦多
+Vancouver /vænˈkuːvə(r)/ n. 温哥华
+Mexico City /ˈmeksɪkəʊ ˈsɪti/ n. 墨西哥城
+Rio de Janeiro /ˌriːəʊ də dʒəˈneərəʊ/ n. 里约热内卢
+São Paulo /ˌsaʊ ˈpaʊləʊ/ n. 圣保罗
+Buenos Aires /ˌbwenəs ˈaɪəriːz/ n. 布宜诺斯艾利斯
+Lima /ˈliːmə/ n. 利马
+Santiago /ˌsæntiˈɑːɡəʊ/ n. 圣地亚哥
+London /ˈlʌndən/ n. 伦敦
+Paris /ˈpærɪs/ n. 巴黎
+Berlin /bɜːˈlɪn/ n. 柏林
+Rome /rəʊm/ n. 罗马
+Madrid /məˈdrɪd/ n. 马德里
+Barcelona /ˌbɑːsəˈləʊnə/ n. 巴塞罗那
+Milan /mɪˈlæn/ n. 米兰
+Venice /ˈvenɪs/ n. 威尼斯
+Vienna /viˈenə/ n. 维也纳
+Prague /prɑːɡ/ n. 布拉格
+Budapest /ˈbuːdəpest/ n. 布达佩斯
+Warsaw /ˈwɔːsɔː/ n. 华沙
+Istanbul /ˌɪstænˈbʊl/ n. 伊斯坦布尔
+Moscow /ˈmɒskəʊ/ n. 莫斯科
+Dubai /duːˈbaɪ/ n. 迪拜
+Abu Dhabi /ˌæbuː ˈdæbi/ n. 阿布扎比
+Bangkok /ˌbæŋˈkɒk/ n. 曼谷
+Singapore /ˌsɪŋɡəˈpɔː/ n. 新加坡
+Kuala Lumpur /ˌkwɑːlə ˈlʊmpʊə/ n. 吉隆坡
+Jakarta /dʒəˈkɑːtə/ n. 雅加达
+Seoul /səʊl/ n. 首尔
+Busan /buːˈsɑːn/ n. 釜山
+Tokyo /ˈtəʊkiəʊ/ n. 东京
+Osaka /ɒˈsɑːkə/ n. 大阪
+Kyoto /kiˈəʊtəʊ/ n. 京都
+Sydney /ˈsɪdni/ n. 悉尼
+Melbourne /ˈmelbən/ n. 墨尔本
+Auckland /ˈɔːklənd/ n. 奥克兰
+
+Word List 9 世界著名地标
+Eiffel Tower /ˈaɪfl taʊə(r)/ n. 埃菲尔铁塔
+Louvre Museum /ˈluːvrə mjuˈziːəm/ n. 卢浮宫
+Notre-Dame /ˌnəʊtrə ˈdɑːm/ n. 巴黎圣母院
+Big Ben /ˌbɪɡ ˈben/ n. 大本钟
+Buckingham Palace /ˌbʌkɪŋəm ˈpæləs/ n. 白金汉宫
+Stonehenge /ˌstəʊnˈhendʒ/ n. 巨石阵
+Colosseum /ˌkɒləˈsiːəm/ n. 罗马斗兽场
+Leaning Tower of Pisa /ˌliːnɪŋ taʊə(r) əv ˈpiːsə/ n. 比萨斜塔
+Sagrada Família /səˈɡrɑːdə fəˈmiːliə/ n. 圣家堂
+Acropolis /əˈkrɒpəlɪs/ n. 雅典卫城
+White House /ˌwaɪt ˈhaʊs/ n. 白宫
+Statue of Liberty /ˌstætʃuː əv ˈlɪbəti/ n. 自由女神像
+Golden Gate Bridge /ˌɡəʊldən ɡeɪt brɪdʒ/ n. 金门大桥
+Grand Canyon /ɡrænd ˈkænjən/ n. 科罗拉多大峡谷
+Niagara Falls /naɪˈæɡərə fɔːlz/ n. 尼亚加拉大瀑布
+Christ the Redeemer /kraɪst ðə rɪˈdiːmə(r)/ n. 基督救世主雕像
+Machu Picchu /ˌmɑːtʃuː ˈpiːtʃuː/ n. 马丘比丘
+Petra /ˈpetrə/ n. 佩特拉古城
+Great Pyramid of Giza /ɡreɪt ˈpɪrəmɪd əv ˈɡiːzə/ n. 吉萨大金字塔
+Taj Mahal /ˌtɑːdʒ məˈhɑːl/ n. 泰姬陵
+Angkor Wat /ˌæŋkɔː ˈwɒt/ n. 吴哥窟
+Mount Fuji /maʊnt ˈfuːdʒi/ n. 富士山
+Sydney Opera House /ˌsɪdni ˈɒprə haʊs/ n. 悉尼歌剧院
+
+
+Word List 10 亚洲
+Asia /ˈeɪʒə/ n. 亚洲
+European Russia /ˌjʊərəˈpiːən ˈrʌʃə/ 俄罗斯欧洲部分
+South China Sea /saʊtʃˈaɪnə siː/ 中国南海
+East China Sea /iːstˈtʃaɪnə siː/ 中国东海
+Yellow Sea /ˈjeləʊ siː/ 黄海
+Sea of Japan /siː əv dʒəˈpæn/ 日本海
+Sea of Okhotsk /siː əv əʊˈkɒtsk/ 鄂霍次克海
+Bering Sea /ˈbeərɪŋ siː/ 白令海
+Chukchi Sea /ˈtʃʊktʃiː siː/ 楚科奇海
+Laptev Sea /ˈlæptəf siː/ 拉普捷夫海
+Kara Sea /ˈkɑːrə siː/ 喀拉海
+Barents Sea /ˈbærənts siː/ 巴伦支海
+Norwegian Sea /nɔːˈwiːdʒən siː/ 挪威海
+Black Sea /blæk siː/ 黑海
+Mediterranean Sea /ˌmedɪtəˈreɪniən siː/ 地中海
+Red Sea /red siː/ 红海
+Arabian Sea /əˈreɪbiən siː/ 阿拉伯海
+Persian Gulf /ˈpɜːʃn ɡʌlf/ 波斯湾
+Gulf of Aden /ɡʌlf əv ˈeɪdn/ 亚丁湾
+Bay of Bengal /beɪ əv benˈɡɔːl/ 孟加拉湾
+Andaman Sea /ˈændəmæn siː/ 安达曼海
+Philippine Sea /ˈfɪlɪpiːn siː/ 菲律宾海
+Celebes Sea /ˈselɪbiːz siː/ 苏拉威西海
+Banda Sea /ˈbændə siː/ 班达海
+Arafura Sea /ˌɑːrəˈfʊərə siː/ 阿拉弗拉海
+Java Sea /ˈdʒɑːvə siː/ 爪哇海
+Timor Sea /ˈtiːmɔː(r) siː/ 帝汶海
+Flores Sea /ˈflɔːrɪz siː/ 弗洛勒斯海
+Savu Sea /ˈsɑːvuː siː/ 萨武海
+Lesser Sunda Islands /ˈlesə ˈsʌndə ˈaɪləndz/ 小巽他群岛
+Sunda Islands /ˈsʌndə ˈaɪləndz/ 巽他群岛
+Malay Peninsula /məˈleɪ pəˈnɪnsjələ/ 马来半岛
+Indochina Peninsula /ˌɪndəʊˈtʃaɪnə pəˈnɪnsjələ/ 中南半岛
+Arabian Peninsula /əˈreɪbiən pəˈnɪnsjələ/ 阿拉伯半岛
+Indian Ocean /ˈɪndiən ˈəʊʃn/ n. 印度洋
+Pacific Ocean /pəˈsɪfɪk ˈəʊʃn/ n. 太平洋
+Arctic Ocean /ˈɑːktɪk ˈəʊʃn/ n. 北冰洋
+
+
+Russia /ˈrʌʃə/ n. 俄罗斯
+Kazakhstan /ˌkæzəkˈstæn/ n. 哈萨克斯坦
+Mongolia /mɒŋˈɡəʊliə/ n. 蒙古
+China /ˈtʃaɪnə/ n. 中国
+North Korea /nɔːθ kəˈriːə/ n. 朝鲜
+South Korea /saʊθ kəˈriːə/ n. 韩国
+Japan /dʒəˈpæn/ n. 日本
+Taiwan /ˌtaɪˈwɑːn/ n. 中国台湾地区
+Hong Kong /ˌhɒŋ ˈkɒŋ/ n. 中国香港特别行政区
+Macau /məˈkaʊ/ n. 中国澳门特别行政区
+Vietnam /ˌvjetˈnæm/ n. 越南
+Laos /laʊs/ n. 老挝
+Cambodia /kæmˈbəʊdiə/ n. 柬埔寨
+Thailand /ˈtaɪlænd/ n. 泰国
+Myanmar /ˈmaɪænmɑː(r)/ n. 缅甸
+Malaysia /məˈleɪʒə/ n. 马来西亚
+Singapore /ˌsɪŋɡəˈpɔː(r)/ n. 新加坡
+Indonesia /ˌɪndəˈniːʒə/ n. 印度尼西亚
+Philippines /ˈfɪlɪpiːnz/ n. 菲律宾
+Timor-Leste /ˌtiːmɔː ˈleʃteɪ/ n. 东帝汶
+Brunei /ˈbruːnaɪ/ n. 文莱
+India /ˈɪndiə/ n. 印度
+Pakistan /ˌpɑːkɪˈstæn/ n. 巴基斯坦
+Bangladesh /ˌbæŋɡləˈdeʃ/ n. 孟加拉国
+Nepal /nɪˈpɔːl/ n. 尼泊尔
+Bhutan /buːˈtɑːn/ n. 不丹
+Sri Lanka /ˌsriː ˈlæŋkə/ n. 斯里兰卡
+Maldives /ˈmɔːldiːvz/ n. 马尔代夫
+Iran /ɪˈrɑːn/ n. 伊朗
+Iraq /ɪˈrɑːk/ n. 伊拉克
+Saudi Arabia /ˌsaʊdi əˈreɪbiə/ n. 沙特阿拉伯
+Yemen /ˈjemən/ n. 也门
+Oman /əʊˈmɑːn/ n. 阿曼
+U.A.E. /juː eɪ iː/ n. 阿拉伯联合酋长国
+Qatar /ˈkætɑː(r)/ n. 卡塔尔
+Bahrain /bɑːˈreɪn/ n. 巴林
+Kuwait /kʊˈweɪt/ n. 科威特
+Jordan /ˈdʒɔːdn/ n. 约旦
+Syria /ˈsɪriə/ n. 叙利亚
+Lebanon /ˈlebənən/ n. 黎巴嫩
+Israel /ˈɪzreɪəl/ n. 以色列
+Palestine /ˈpæləstaɪn/ n. 巴勒斯坦
+Turkey /ˈtɜːki/ n. 土耳其
+Georgia /ˈdʒɔːdʒə/ n. 格鲁吉亚
+Armenia /ɑːˈmiːniə/ n. 亚美尼亚
+Azerbaijan /ˌæzəbaɪˈdʒɑːn/ n. 阿塞拜疆
+Turkmenistan /ˌtɜːkmenɪˈstæn/ n. 土库曼斯坦
+Uzbekistan /ˌʊzbekɪˈstæn/ n. 乌兹别克斯坦
+Tajikistan /təˌdʒiːkɪˈstæn/ n. 塔吉克斯坦
+Kyrgyzstan /ˌkɜːɡɪˈstæn/ n. 吉尔吉斯斯坦
+Afghanistan /æfˈɡænɪstæn/ n. 阿富汗
+
+
+Moscow /ˈmɒskəʊ/ n. 莫斯科
+Saint Petersburg /seɪnt ˈpiːtəzbɜːɡ/ n. 圣彼得堡
+Nizhny Novgorod /ˈnɪʒni ˈnɒvɡərɒd/ n. 下诺夫哥罗德
+Kazan /kəˈzæn/ n. 喀山
+Yekaterinburg /jɪˌkætərɪnˈbɜːɡ/ n. 叶卡捷琳堡
+Omsk /ɒmsk/ n. 鄂木斯克
+Novosibirsk /ˌnəʊvəsɪˈbɪrsk/ n. 新西伯利亚
+Krasnoyarsk /ˌkræsnəˈjɑːrsk/ n. 克拉斯诺亚尔斯克
+Irkutsk /ɪrˈkuːtsk/ n. 伊尔库茨克
+Khabarovsk /kəˈbɑːrəfsk/ n. 哈巴罗夫斯克
+Vladivostok /ˌvlædɪˈvɒstɒk/ n. 符拉迪沃斯托克（海参崴）
+Magadan /ˌmɑːɡəˈdæn/ n. 马加丹
+Norilsk /nəˈriːlsk/ n. 诺里尔斯克
+Yakutsk /jəˈkuːtsk/ n. 雅库茨克
+Petropavlovsk-Kamchatsky /ˌpetrəˈpævləfsk kæmˈtʃætski/ n. 堪察加彼得罗巴甫洛夫斯克
+Ulaanbaatar /uːˈlɑːnˈbɑːtə(r)/ n. 乌兰巴托
+Beijing /beɪˈdʒɪŋ/ n. 北京
+Xi'an /ʃiːˈɑːn/ n. 西安
+Chengdu /tʃʌŋˈduː/ n. 成都
+Wuhan /wuːˈhɑːn/ n. 武汉
+Shanghai /ʃæŋˈhaɪ/ n. 上海
+Qingdao /tʃɪŋˈdaʊ/ n. 青岛
+Guangzhou /ɡwɑːŋˈdʒəʊ/ n. 广州
+Taipei /ˌtaɪˈpeɪ/ n. 台北
+Pyongyang /ˌpjɒŋˈjæŋ/ n. 平壤
+Seoul /səʊl/ n. 首尔
+Tokyo /ˈtəʊkiəʊ/ n. 东京
+Osaka /əʊˈsɑːkə/ n. 大阪
+Sapporo /səˈpɔːrəʊ/ n. 札幌
+Urumqi /uːˈruːmtʃiː/ n. 乌鲁木齐
+Lhasa /ˈlɑːsə/ n. 拉萨
+Hanoi /hæˈnɔɪ/ n. 河内
+Ho Chi Minh City /həʊ tʃiː mɪn ˈsɪti/ n. 胡志明市
+Vientiane /viˌentsiˈæn/ n. 万象
+Phnom Penh /ˌnɒm ˈpen/ n. 金边
+Bangkok /ˌbæŋˈkɒk/ n. 曼谷
+Nay Pyi Taw /neɪ pjɔː tɔː/ n. 内比都
+Kuala Lumpur /ˈkwɑːlə ˈlʊmpʊə(r)/ n. 吉隆坡
+Bandar Seri Begawan /ˈbændə ˈsɪəri bəˈɡɑːwən/ n. 斯里巴加湾市
+Manila /məˈnɪlə/ n. 马尼拉
+Davao /dɑːˈvaʊ/ n. 达沃
+Jakarta /dʒəˈkɑːtə/ n. 雅加达
+Dili /ˈdɪli/ n. 帝力
+New Delhi /njuː ˈdeli/ n. 新德里
+Jaipur /ˈdʒaɪpʊə(r)/ n. 斋浦尔
+Mumbai /mʊmˈbaɪ/ n. 孟买
+Bangalore /ˌbæŋɡəˈlɔː(r)/ n. 班加罗尔
+Chennai /ˈtʃennaɪ/ n. 金奈
+Kolkata /ˈkɔːlkʌtə/ n. 加尔各答
+Kathmandu /ˌkætmænˈduː/ n. 加德满都
+Thimphu /ˈθɪmpuː/ n. 廷布
+Dhaka /ˈdækə/ n. 达卡
+Colombo /kəˈlʌmbəʊ/ n. 科伦坡
+Male /ˈmɑːleɪ/ n. 马累
+Tehran /teəˈræn/ n. 德黑兰
+Baghdad /ˈbæɡdæd/ n. 巴格达
+Riyadh /riːˈjɑːd/ n. 利雅得
+Kuwait City /kuːˈweɪt ˈsɪti/ n. 科威特城
+Abu Dhabi /ˌæbuː ˈdæbi/ n. 阿布扎比
+Dubai /duːˈbaɪ/ n. 迪拜
+Muscat /ˈmʌskæt/ n. 马斯喀特
+Sana'a /səˈnɑːə/ n. 萨那
+Ankara /ˈæŋkərə/ n. 安卡拉
+Istanbul /ˌɪstænˈbʊl/ n. 伊斯坦布尔
+Tbilisi /təˈbɪlɪsi/ n. 第比利斯
+Yerevan /ˌjereˈvɑːn/ n. 埃里温
+Baku /bɑːˈkuː/ n. 巴库
+Ashgabat /ˌæʃɡəˈbɑːt/ n. 阿什哈巴德
+Tashkent /tæʃˈkent/ n. 塔什干
+Dushanbe /duːˈʃænbə/ n. 杜尚别
+Bishkek /ˈbɪʃkek/ n. 比什凯克
+Almaty /ælˈmɑːti/ n. 阿拉木图
+Kabul /ˈkɔːbl/ n. 喀布尔
+Islamabad /ɪsˈlɑːməbæd/ n. 伊斯兰堡
+Lahore /ləˈhɔː(r)/ n. 拉合尔
+Jerusalem /dʒəˈruːsələm/ n. 耶路撒冷
+Damascus /dəˈmæskəs/ n. 大马士革
+Beirut /beɪˈruːt/ n. 贝鲁特
+Amman /əˈmæn/ n. 安曼
+Nicosia /ˌnɪkəˈsiːə/ n. 尼科西亚
+
+
+Lake Baikal /leɪk baɪˈkɔːl/ n. 贝加尔湖
+Aral Sea /ˈærəl siː/ n. 咸海
+Svalbard /ˈsvɑːlbɑː(r)/ n. 斯瓦尔巴群岛
+Franz Josef Land /frɑːnts ˈjəʊzef lænd/ n. 法兰士约瑟夫地群岛
+Severnaya Zemlya /sɪˈveənəjə zɪmˈlʲæ/ n. 北地群岛
+New Siberian Islands /njuː saɪˈbɪəriən ˈaɪləndz/ n. 新西伯利亚群岛
+Wrangel Island /ˈræŋɡəl ˈaɪlənd/ n. 弗兰格尔岛
+St. Lawrence Island /seɪnt ˈlɒrəns ˈaɪlənd/ n. 圣劳伦斯岛
+Aleutian Islands /əˈluːʃn ˈaɪləndz/ n. 阿留申群岛
+Sakhalin /ˈsækəlɪn/ n. 萨哈林岛（库页岛）
+Kuril Islands /ˈkʊrɪl ˈaɪləndz/ n. 千岛群岛
+Svalbard /ˈsvɑːlbɑː(r)/ n. 斯瓦尔巴
+Novaya Zemlya /ˈnəʊvəjə zɪmˈlʲæ/ n. 新地岛
+Sakhalin /səˈkɑːlɪn/ n. 萨哈林
+Taiwan Island /ˌtaɪˈwɑːn ˈaɪlənd/ n. 台湾岛
+Hainan Island /ˈhaɪnæn ˈaɪlənd/ n. 海南岛
+Sumatra /suːˈmɑːtrə/ n. 苏门答腊岛
+Java /ˈdʒɑːvə/ n. 爪哇岛
+Borneo /ˈbɔːniəʊ/ n. 加里曼丹岛
+Sulawesi /ˌsuːləˈweɪsi/ n. 苏拉威西岛
+Maluku Islands /məˈluːkuː ˈaɪləndz/ n. 马鲁古群岛
+Papua New Guinea /ˈpæpjuə njuː ˈɡɪni/ n. 巴布亚新几内亚
+Australia /ɔːˈstreɪliə/ n. 澳大利亚
+Somalia /səˈmɑːliə/ n. 索马里
+Kenya /ˈkenjə/ n. 肯尼亚
+Egypt /ˈiːdʒɪpt/ n. 埃及
+Sicily /ˈsɪsəli/ n. 西西里岛
+Sardinia /sɑːˈdɪniə/ n. 撒丁岛
+Cyprus /ˈsaɪprəs/ n. 塞浦路斯
+Malta /ˈmɔːltə/ n. 马耳他
+Crete /kriːt/ n. 克里特岛
+Samos /ˈseɪmɒs/ n. 萨摩斯岛
+Sicily /ˈsɪsəli/ n. 西西里
+Sardinia /sɑːˈdɪniə/ n. 撒丁
+Cyprus /ˈsaɪprəs/ n. 塞浦路斯
+Malta /ˈmɔːltə/ n. 马耳他
+Crete /kriːt/ n. 克里特
+Samos /ˈseɪmɒs/ n. 萨摩斯
+Socotra /səˈkəʊtrə/ n. 索科特拉岛
+Somaliland /səʊˈmɑːlilænd/ n. 索马里兰
+Djibouti /dʒɪˈbuːti/ n. 吉布提
+Eritrea /ˌerɪˈtreɪə/ n. 厄立特里亚
+Ethiopia /ˌiːθiˈəʊpiə/ n. 埃塞俄比亚
+Sudan /suːˈdæn/ n. 苏丹
+Chad /tʃæd/ n. 乍得
+Niger /ˈnaɪdʒə(r)/ n. 尼日尔
+Nigeria /naɪˈdʒɪəriə/ n. 尼日利亚
+Cameroon /ˌkæməˈruːn/ n. 喀麦隆
+Equatorial Guinea /ˌekwəˈtɔːriəl ˈɡɪni/ n. 赤道几内亚
+Gabon /ɡæˈbɒn/ n. 加蓬
+Congo /ˈkɒŋɡəʊ/ n. 刚果
+Angola /æŋˈɡəʊlə/ n. 安哥拉
+Namibia /nəˈmɪbiə/ n. 纳米比亚
+South Africa /saʊθ ˈæfrɪkə/ n. 南非
+Madagascar /ˌmædəˈɡæskə(r)/ n. 马达加斯加
+Mauritius /məˈrɪʃəs/ n. 毛里求斯
+Seychelles /seɪˈʃelz/ n. 塞舌尔
+Comoros /ˈkɒmərəʊz/ n. 科摩罗
+Mayotte /maɪˈɒt/ n. 马约特
+Reunion /riːˈjuːniən/ n. 留尼汪
+Mauritius /məˈrɪʃəs/ n. 毛里求斯
+Seychelles /seɪˈʃelz/ n. 塞舌尔
+Comoros /ˈkɒmərəʊz/ n. 科摩罗
+Mayotte /maɪˈɒt/ n. 马约特
+Reunion /riːˈjuːniən/ n. 留尼汪
+
+
+Norway /ˈnɔːweɪ/ n. 挪威
+Sweden /ˈswiːdn/ n. 瑞典
+Finland /ˈfɪnlənd/ n. 芬兰
+Denmark /ˈdenmɑːk/ n. 丹麦
+Germany /ˈdʒɜːməni/ n. 德国
+Poland /ˈpəʊlənd/ n. 波兰
+Lithuania /ˌlɪθjuˈeɪniə/ n. 立陶宛
+Latvia /ˈlætviə/ n. 拉脱维亚
+Estonia /eˈstəʊniə/ n. 爱沙尼亚
+Belarus /ˌbeləˈruːs/ n. 白俄罗斯
+Ukraine /juːˈkreɪn/ n. 乌克兰
+Romania /rəʊˈmeɪniə/ n. 罗马尼亚
+Bulgaria /bʌlˈɡeəriə/ n. 保加利亚
+Greece /ɡriːs/ n. 希腊
+Albania /ælˈbeɪniə/ n. 阿尔巴尼亚
+North Macedonia /nɔːθ ˌmæsəˈdəʊniə/ n. 北马其顿
+Serbia /ˈsɜːbiə/ n. 塞尔维亚
+Bosnia and Herzegovina /ˈbɒzniə ənd ˌhɜːtsəɡəˈviːnə/ n. 波斯尼亚和黑塞哥维那
+Croatia /krəʊˈeɪʃə/ n. 克罗地亚
+Slovenia /sləˈviːniə/ n. 斯洛文尼亚
+Hungary /ˈhʌŋɡəri/ n. 匈牙利
+Slovakia /sləʊˈvækiə/ n. 斯洛伐克
+Czech Republic /tʃek rɪˈpʌblɪk/ n. 捷克共和国
+Austria /ˈɒstriə/ n. 奥地利
+Switzerland /ˈswɪtsələnd/ n. 瑞士
+Liechtenstein /ˈlɪktənstaɪn/ n. 列支敦士登
+Luxembourg /ˈlʌksəmbɜːɡ/ n. 卢森堡
+Belgium /ˈbeldʒəm/ n. 比利时
+Netherlands /ˈneðələndz/ n. 荷兰
+United Kingdom /juːˈnaɪtɪd ˈkɪŋdəm/ n. 英国
+Ireland /ˈaɪələnd/ n. 爱尔兰
+France /fræns/ n. 法国
+Spain /speɪn/ n. 西班牙
+Portugal /ˈpɔːtʃuɡl/ n. 葡萄牙
+Italy /ˈɪtəli/ n. 意大利
+San Marino /sæn məˈriːnəʊ/ n. 圣马力诺
+Vatican City /ˈvætɪkən ˈsɪti/ n. 梵蒂冈城国
+Andorra /ænˈdɔːrə/ n. 安道尔
+Monaco /ˈmɒnəkəʊ/ n. 摩纳哥

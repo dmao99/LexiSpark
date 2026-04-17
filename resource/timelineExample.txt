@@ -1,0 +1,180 @@
+Figures
+
+1,Alfred the Great,King of Wessex,Male,King of Wessex,871-899,849-899,Catholicism,-,-,-,-,Ealhswith,-,Wantage
+1,阿尔弗雷德大帝,韦塞克斯国王,男性,韦塞克斯国王,871-899,849-899,天主教,-,-,-,-,埃尔斯维丝,-,万蒂奇
+2,William I,William the Conqueror,Male,King of England,1066-1087,c.1028-1087,Catholicism,Robert I of 
+Normandy,Herleva,-,-,Matilda of Flanders,-,Falaise
+2,威廉一世,征服者威廉,男性,英格兰国王,1066-1087,c.1028-1087,天主教,诺曼底公爵罗贝尔一世,赫勒娃,-,-,佛兰德斯的玛蒂尔达,-,法莱斯
+3,Henry I,Beauclerc,Male,King of England,1100-1135,1068-1135,Catholicism,William I of England,Matilda of Flanders,-,-,Matilda of Scotland;Adeliza of Louvain,-,Selby
+3,亨利一世,儒雅者,男性,英格兰国王,1100-1135,1068-1135,天主教,英格兰国王威廉一世,佛兰德斯的玛蒂尔达,-,-,苏格兰的玛蒂尔达;鲁汶的阿黛莉扎,-,塞尔比
+4,Stephen,King Stephen,Male,King of England,1135-1154,c.1096-1154,Catholicism,Stephen II of Blois,Adela of Normandy,-,-,Matilda I of Boulogne,-,Blois
+4,斯蒂芬,斯蒂芬国王,男性,英格兰国王,1135-1154,c.1096-1154,天主教,布卢瓦伯爵斯蒂芬二世,诺曼底的阿德拉,-,-,布洛涅的玛蒂尔达一世,-,布卢瓦
+5,Henry II,Henry Curtmantle,Male,King of England,1154-1189,1133-1189,Catholicism,Geoffrey V of Anjou,Empress Matilda,-,-,Eleanor of Aquitaine,-,Le Mans
+5,亨利二世,短斗篷亨利,男性,英格兰国王,1154-1189,1133-1189,天主教,安茹伯爵若弗鲁瓦五世,玛蒂尔达皇后,-,-,阿基坦的埃莉诺,-,勒芒
+6,Thomas Becket,-,Male,Archbishop of Canterbury,-,c.1119-1170,Catholicism,Gilbert Becket,-,-,-,-,-,London
+6,托马斯·贝克特,-,男性,坎特伯雷大主教,-,c.1119-1170,天主教,吉尔伯特·贝克特,-,-,-,-,-,伦敦
+7,Richard I,Richard the Lionheart,Male,King of England,1189-1199,1157-1199,Catholicism,Henry II of England,Eleanor of Aquitaine,-,-,Berengaria of Navarre,-,Beaumont Palace
+7,理查一世,狮心王,男性,英格兰国王,1189-1199,1157-1199,天主教,英格兰国王亨利二世,阿基坦的埃莉诺,-,-,纳瓦拉的贝伦加丽亚,-,博蒙特宫
+8,John,Lackland,Male,King of England,1199-1216,1166-1216,Catholicism,Henry II of England,Eleanor of Aquitaine,-,-,Isabella of Angoulême,-,Beaumont Palace
+8,约翰,无地王,男性,英格兰国王,1199-1216,1166-1216,天主教,英格兰国王亨利二世,阿基坦的埃莉诺,-,-,昂古莱姆的伊莎贝拉,-,博蒙特宫
+9,Henry III,-,Male,King of England,1216-1272,1207-1272,Catholicism,John of England,Isabella of Angoulême,-,-,Eleanor of Provence,-,Bristol
+9,亨利三世,-,男性,英格兰国王,1216-1272,1207-1272,天主教,英格兰国王约翰,昂古莱姆的伊莎贝拉,-,-,普罗旺斯的埃莉诺,-,布里斯托尔
+10,Simon de Montfort, 6th Earl of Leicester,Male,Baronial Leader,-,c.1208-1265,Catholicism,Simon de Montfort 5th Earl,-,-,-,Eleanor of England,-,Montfort-l’Amaury
+10,莱斯特伯爵六世西蒙·德·孟福尔,男性,贵族领袖,-,c.1208-1265,天主教,莱斯特伯爵五世西蒙·德·孟福尔,-,-,-,英格兰的埃莉诺,-,蒙福尔拉莫里
+
+Events
+
+Event Figure 1
+Defeated the Viking Great Heathen Army and secured Wessex
+击败维京大军并保卫韦塞克斯王国
+Promoted Anglo-Saxon unification and legal reforms
+推动盎格鲁-撒克逊统一与法律改革
+Initiated translation of Latin texts into Old English and educational revival
+开启拉丁文译古英语的翻译事业与教育复兴
+https://www.britannica.com/biography/Alfred-king-of-Wessex
+https://www.britannica.com/biography/Alfred-king-of-Wessex
+
+Event Figure 2
+Conquered England at the Battle of Hastings in 1066
+1066年黑斯廷斯战役征服英格兰
+Compiled the Domesday Book for taxation and land assessment
+编纂《末日审判书》用于税收与土地核查
+Established Norman feudal hierarchy across England
+在英格兰建立诺曼封建等级制度
+https://www.britannica.com/biography/William-I-king-of-England
+https://www.britannica.com/biography/William-I-king-of-England
+
+Event Figure 3
+Secured the throne after the death of William II
+威廉二世去世后继承王位
+Reformed royal administration and law courts
+改革王室行政与司法体系
+Issued the Charter of Liberties to limit royal abuses
+颁布《自由宪章》限制王权滥用
+https://www.britannica.com/biography/Henry-I-king-of-England
+https://www.britannica.com/biography/Henry-I-king-of-England
+
+Event Figure 4
+Seized the throne despite the claim of Empress Matilda
+无视玛蒂尔达皇后的继承权夺取王位
+Ruled during the Anarchy, a period of civil war and instability
+统治时期处于内战动荡的“无政府时期”
+Agreed to the Treaty of Wallingford, naming Henry II as heir
+签署《沃灵福德条约》,指定亨利二世为继承人
+https://www.britannica.com/biography/Stephen-king-of-England
+https://www.britannica.com/biography/Stephen-king-of-England
+
+Event Figure 5
+Founded the Angevin Empire spanning England and France
+建立横跨英格兰与法国的安茹帝国
+Reformed common law and expanded royal judicial authority
+改革普通法并扩大王室司法权
+Clashed with Thomas Becket over ecclesiastical jurisdiction
+与托马斯·贝克特就教会管辖权发生激烈冲突
+https://www.britannica.com/biography/Henry-II-king-of-England
+https://www.britannica.com/biography/Henry-II-king-of-England
+
+Event Figure 6
+Served as Lord Chancellor before becoming Archbishop of Canterbury
+出任坎特伯雷大主教前担任大法官
+Opposed Henry II’s attempts to control the Church
+反对亨利二世控制教会的企图
+Murdered in Canterbury Cathedral, later canonized as a saint
+在坎特伯雷大教堂遇刺身亡,后被追封为圣徒
+https://www.britannica.com/biography/Thomas-Becket
+https://www.britannica.com/biography/Thomas-Becket
+
+Event Figure 7
+Led the Third Crusade against Saladin in the Holy Land
+领导第三次十字军东征在圣地对抗萨拉丁
+Was captured and held for ransom in Austria during his return
+返程途中在奥地利被俘虏并索要赎金
+Spent almost his entire reign abroad on military campaigns
+在位期间几乎全部在海外征战
+https://www.britannica.com/biography/Richard-I-king-of-England
+https://www.britannica.com/biography/Richard-I-king-of-England
+
+Event Figure 8
+Signed Magna Carta in 1215 under baronial pressure
+1215年在贵族压力下签署《大宪章》
+Lost most English continental possessions in France
+丧失英格兰在法国的大部分大陆领地
+Faced widespread rebellion and civil conflict during his reign
+统治期间遭遇广泛叛乱与内战冲突
+https://www.britannica.com/biography/John-king-of-England
+https://www.britannica.com/biography/John-king-of-England
+
+Event Figure 9
+Undertook extensive rebuilding of Westminster Abbey
+大规模重建威斯敏斯特教堂
+Clashed repeatedly with barons over taxation and governance
+因税收与治理问题多次与贵族冲突
+Ruled during the Second Barons’ War led by Simon de Montfort
+统治期间爆发西蒙·德·孟福尔领导的第二次贵族战争
+https://www.britannica.com/biography/Henry-III-king-of-England
+https://www.britannica.com/biography/Henry-III-king-of-England
+
+Event Figure 10
+Led the baronial opposition against Henry III
+领导贵族反对派对抗亨利三世
+Called the first elected English parliament in 1265
+1265年召集首届经选举产生的英国议会
+Defeated and killed at the Battle of Evesham
+在伊夫舍姆战役中战败身亡
+
+
+Word List 1（对应原文1-10号人物条目）
+
+defeat /dɪˈfiːt/ v. 击败，战胜；同义词：conquer, overcome, vanquish
+secure /sɪˈkjʊə(r)/ v. 保卫，确保；同义词：protect, preserve, safeguard
+promote /prəˈməʊt/ v. 推动，促进；同义词：advance, foster, encourage
+unification /ˌjuːnɪfɪˈkeɪʃn/ n. 统一，联合；同义词：union, integration, consolidation
+reform /rɪˈfɔːm/ n.&v. 改革，改良；同义词：improve, amend, renovate
+initiate /ɪˈnɪʃieɪt/ v. 开启，发起；同义词：launch, start, commence
+translation /trænsˈleɪʃn/ n. 翻译，译文；同义词：rendering, version, interpretation
+revival /rɪˈvaɪvl/ n. 复兴，复苏；同义词：renewal, renaissance, resurgence
+conquer /ˈkɒŋkə(r)/ v. 征服，攻克；同义词：defeat, overcome, subdue
+compile /kəmˈpaɪl/ v. 编纂，汇编；同义词：collect, assemble, edit
+taxation /tækˈseɪʃn/ n. 税收，征税；同义词：taxing, revenue, levy
+assessment /əˈsesmənt/ n. 评估，核查；同义词：evaluation, appraisal, judgment
+establish /ɪˈstæblɪʃ/ v. 建立，设立；同义词：found, institute, set up
+feudal /ˈfjuːdl/ adj. 封建的，封建制度的；同义词：feudalistic, seigneurial, manorial
+hierarchy /ˈhaɪərɑːki/ n. 等级制度，层级；同义词：ranking, order, pecking order
+secure /sɪˈkjʊə(r)/ v. 获得，稳固；同义词：obtain, gain, acquire
+throne /θrəʊn/ n. 王位，王权；同义词：crown, sovereignty, dominion
+administration /ədˌmɪnɪˈstreɪʃn/ n. 行政，管理；同义词：management, governance, regulation
+issue /ˈɪʃuː/ v. 颁布，发行；同义词：promulgate, release, publish
+limit /ˈlɪmɪt/ v. 限制，约束；同义词：restrict, confine, curb
+abuse /əˈbjuːs/ n. 滥用，妄用；同义词：misuse, exploitation, excess
+seize /siːz/ v. 夺取，抢占；同义词：take, grab, confiscate
+claim /kleɪm/ n. 权利要求，主张；同义词：entitlement, right, assertion
+instability /ˌɪnstəˈbɪləti/ n. 不稳定，动荡；同义词：volatility, uncertainty, unrest
+agree /əˈɡriː/ v. 同意，达成协议；同义词：consent, approve, accede
+heir /eə(r)/ n. 继承人，后继者；同义词：successor, inheritor, legatee
+found /faʊnd/ v. 建立，创立；同义词：establish, institute, create
+expand /ɪkˈspænd/ v. 扩大，扩展；同义词：enlarge, extend, broaden
+clash /klæʃ/ v. 冲突，争执；同义词：conflict, collide, dispute
+ecclesiastical /ɪˌkliːziˈæstɪkl/ adj. 教会的，宗教的；同义词：churchly, religious, clerical
+jurisdiction /ˌdʒʊərɪsˈdɪkʃn/ n. 管辖权，司法权；同义词：authority, control, dominion
+serve /sɜːv/ v. 任职，服务；同义词：work, function, attend
+oppose /əˈpəʊz/ v. 反对，反抗；同义词：resist, combat, counter
+murder /ˈmɜːdə(r)/ v.&n. 谋杀，杀害；同义词：kill, assassinate, slay
+canonize /ˈkænənaɪz/ v. 封圣，尊崇；同义词：sainthood, bless, consecrate
+lead /liːd/ v. 领导，率领；同义词：command, head, guide
+capture /ˈkæptʃə(r)/ v. 俘虏，捕获；同义词：catch, seize, apprehend
+ransom /ˈrænsəm/ n. 赎金，赎身；同义词：redemption, release payment, forfeit
+campaign /kæmˈpeɪn/ n. 战役，运动；同义词：operation, expedition, crusade
+sign /saɪn/ v. 签署，签字；同义词：execute, endorse, ratify
+pressure /ˈpreʃə(r)/ n. 压力，压迫；同义词：stress, strain, coercion
+lose /luːz/ v. 丧失，失去；同义词：forfeit, surrender, misplace
+possession /pəˈzeʃn/ n. 领地，财产；同义词：property, holding, estate
+rebellion /rɪˈbeljən/ n. 叛乱，反抗；同义词：uprising, revolt, insurrection
+conflict /ˈkɒnflɪkt/ n. 冲突，矛盾；同义词：clash, strife, contention
+undertake /ˌʌndəˈteɪk/ v. 着手，承担；同义词：conduct, perform, embark on
+extensive /ɪkˈstensɪv/ adj. 广泛的，大量的；同义词：widespread, broad, comprehensive
+rebuild /ˌriːˈbɪld/ v. 重建，改造；同义词：reconstruct, restore, renovate
+repeatedly /rɪˈpiːtɪdli/ adv. 反复地，再三地；同义词：frequently, often, time and again
+governance /ˈɡʌvənəns/ n. 统治，管理；同义词：rule, administration, control
+opposition /ˌɒpəˈzɪʃn/ n. 反对派，反对；同义词：resistance, dissent, counteraction
+elect /ɪˈlekt/ v. 选举，推选；同义词：vote, choose, select
+parliament /ˈpɑːləmənt/ n. 议会，国会；同义词：legislature, assembly, congress

@@ -1,0 +1,265 @@
+Asia
+European Russia
+South China Sea
+East China Sea
+Yellow Sea
+Sea of Japan
+Sea of Okhotsk
+Bering Sea
+Chukchi Sea
+Laptev Sea
+Kara Sea
+Barents Sea
+Norwegian Sea
+Black Sea
+Mediterranean Sea
+Red Sea
+Arabian Sea
+Persian Gulf
+Gulf of Aden
+Bay of Bengal
+Andaman Sea
+Philippine Sea
+Celebes Sea
+Banda Sea
+Arafura Sea
+Java Sea
+Timor Sea
+Flores Sea
+Savu Sea
+Lesser Sunda Islands
+Sunda Islands
+Malay Peninsula
+Indochina Peninsula
+Arabian Peninsula
+Indian Ocean
+Pacific Ocean
+Arctic Ocean
+Russia
+Kazakhstan
+Mongolia
+China
+North Korea
+South Korea
+Japan
+Taiwan
+Hong Kong
+Macau
+Vietnam
+Laos
+Cambodia
+Thailand
+Myanmar
+Malaysia
+Singapore
+Indonesia
+Philippines
+Timor-Leste
+Brunei
+India
+Pakistan
+Bangladesh
+Nepal
+Bhutan
+Sri Lanka
+Maldives
+Iran
+Iraq
+Saudi Arabia
+Yemen
+Oman
+U.A.E.
+Qatar
+Bahrain
+Kuwait
+Jordan
+Syria
+Lebanon
+Israel
+Palestine
+Turkey
+Georgia
+Armenia
+Azerbaijan
+Turkmenistan
+Uzbekistan
+Tajikistan
+Kyrgyzstan
+Afghanistan
+Moscow
+Saint Petersburg
+Nizhny Novgorod
+Kazan
+Yekaterinburg
+Omsk
+Novosibirsk
+Krasnoyarsk
+Irkutsk
+Khabarovsk
+Vladivostok
+Magadan
+Norilsk
+Yakutsk
+Petropavlovsk-Kamchatsky
+Ulaanbaatar
+Beijing
+Xi'an
+Chengdu
+Wuhan
+Shanghai
+Qingdao
+Guangzhou
+Taipei
+Pyongyang
+Seoul
+Tokyo
+Osaka
+Sapporo
+Urumqi
+Lhasa
+Hanoi
+Ho Chi Minh City
+Vientiane
+Phnom Penh
+Bangkok
+Nay Pyi Taw
+Kuala Lumpur
+Bandar Seri Begawan
+Manila
+Davao
+Jakarta
+Dili
+New Delhi
+Jaipur
+Mumbai
+Bangalore
+Chennai
+Kolkata
+Kathmandu
+Thimphu
+Dhaka
+Colombo
+Male
+Tehran
+Baghdad
+Riyadh
+Kuwait City
+Abu Dhabi
+Dubai
+Muscat
+Sana'a
+Ankara
+Istanbul
+Tbilisi
+Yerevan
+Baku
+Ashgabat
+Tashkent
+Dushanbe
+Bishkek
+Almaty
+Kabul
+Islamabad
+Lahore
+Jerusalem
+Damascus
+Beirut
+Amman
+Nicosia
+Lake Baikal
+Aral Sea
+Svalbard
+Franz Josef Land
+Severnaya Zemlya
+New Siberian Islands
+Wrangel Island
+St. Lawrence Island
+Aleutian Islands
+Sakhalin
+Kuril Islands
+Svalbard
+Novaya Zemlya
+Sakhalin
+Taiwan Island
+Hainan Island
+Sumatra
+Java
+Borneo
+Sulawesi
+Maluku Islands
+Papua New Guinea
+Australia
+Somalia
+Kenya
+Egypt
+Sicily
+Sardinia
+Cyprus
+Malta
+Crete
+Samos
+Sicily
+Sardinia
+Crete
+Samos
+Socotra
+Somaliland
+Djibouti
+Eritrea
+Ethiopia
+Sudan
+Chad
+Niger
+Nigeria
+Cameroon
+Equatorial Guinea
+Gabon
+Congo
+Angola
+Namibia
+South Africa
+Madagascar
+Mauritius
+Seychelles
+Comoros
+Mayotte
+Reunion
+Norway
+Sweden
+Finland
+Denmark
+Germany
+Poland
+Lithuania
+Latvia
+Estonia
+Belarus
+Ukraine
+Romania
+Bulgaria
+Greece
+Albania
+North Macedonia
+Serbia
+Bosnia and Herzegovina
+Croatia
+Slovenia
+Hungary
+Slovakia
+Czech Republic
+Austria
+Switzerland
+Liechtenstein
+Luxembourg
+Belgium
+Netherlands
+United Kingdom
+Ireland
+France
+Spain
+Portugal
+Italy
+San Marino
+Vatican City
+Andorra
+Monaco
