@@ -15,5 +15,8 @@
 - ✏️ 易错单词改错训练
 - 🖼️ 图背单词
 
+## 英语词典
+在resource/WordBooks目录中是收集到的英语词典，txt格式。
+
 ## Demo:
 https://dmao99.github.io/LexiSpark/
